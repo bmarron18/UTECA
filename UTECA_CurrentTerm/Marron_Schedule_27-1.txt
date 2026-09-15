@@ -1,0 +1,38 @@
+##############
+Marron 27-1
+#############
+
+Class Codes to let students enter class (Teams)
+	==> Manage Team
+		==> Settings
+
+	10AC
+		jckedwl
+
+	10B
+		sizrucs
+
+
+LISTA DE SALONES:
+ 
+Ingles X (10AC) - RM 401
+Ingles X (10B) - RM 307
+	
+
+Daily Schedule:
+Mon
+	
+Tues
+	18:00 - 20:00 		10AC	English X
+	
+Wed
+	16:00 - 18:00		10AC	English X
+	18:00 - 20:00		10B		English X
+
+
+Thurs
+	16:00 - 18:00		10B		English X
+
+Fri
+
+
