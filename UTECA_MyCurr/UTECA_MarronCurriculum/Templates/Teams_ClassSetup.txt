@@ -1,0 +1,24 @@
+
+
+#########
+Setting up 
+Teams Class Folders
+(Select structure based on class)
+########################
+
+Class Materials
+	AdminDocs
+	ContentDocs
+		1p
+		2p
+		3p
+		Texts
+		Textbooks
+		Novels
+	
+	ReferenceDocs
+		AI-Based_Translation
+		Grammar
+		InformationTheory_SystemsScience_Inference
+		Marron_StyleGuide-ErrorsKey
+		ProfessionalConsulting
