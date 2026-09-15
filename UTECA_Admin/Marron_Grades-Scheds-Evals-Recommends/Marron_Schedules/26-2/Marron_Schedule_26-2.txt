@@ -1,0 +1,62 @@
+##############
+Marron 26-2
+#############
+
+ASIGNACIÓN DE SALONES
+ 
+INT2°A 206
+INT4°A 306 
+INT5°A 105
+INT5°B 407
+INT7°A 402
+INT8°AC 106
+INT8°B 104
+INT9°A 407
+INT10°A 105
+
+
+LISTA DE SALONES Y HORARIOS:
+ 
+INT 8°AC - 106
+	IT0835		
+	
+INT 10°A - 105
+	IT1044		
+
+
+
+Daily Schedule:
+Mon	
+	Music
+Tues
+	Music
+
+Wed
+	18:00 - 21:00 (rm 106)		8AC	English VIII
+
+Thurs
+	17:00 - 19:00 (rm 106)		8AC	English VIII
+	19:00 - 21:00 (rm 105)		10A	English X
+
+Fri
+	16:00 - 18:00 (rm 105)		10A	English X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

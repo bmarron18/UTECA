@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Is AI a threat to human language translators?}{2}{0}{1}
+\beamer@sectionintoc {2}{What is AI afterall?}{4}{0}{2}
+\beamer@sectionintoc {3}{A Few Definitions}{8}{0}{3}
+\beamer@sectionintoc {4}{Public AI Translators\\ (free with limitations)}{10}{0}{4}
+\beamer@sectionintoc {5}{Registered User AI Translators \\ (pay per limit)}{18}{0}{5}
+\beamer@sectionintoc {6}{AI vs. Human Translators: The Science}{22}{0}{6}
+\beamer@sectionintoc {7}{Natural Language Translation \\ in the 21\textsuperscript {st} C.}{26}{0}{7}
+\beamer@sectionintoc {8}{Recommendations}{41}{0}{8}
+\beamer@sectionintoc {9}{The Future}{43}{0}{9}
+\beamer@sectionintoc {10}{Thank you!}{45}{0}{10}

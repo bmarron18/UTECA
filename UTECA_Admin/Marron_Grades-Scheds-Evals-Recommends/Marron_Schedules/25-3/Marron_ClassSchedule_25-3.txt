@@ -1,0 +1,24 @@
+
+
+#########
+Classes 25-3
+########################
+
+				Tues		Wed			Thurs
+15:00-16:00		9A			9A			9C
+16:00-17:00		...			...			...
+17:00-18:00		10A			free		10A
+18:00-19:00		9C			9C			...
+19:00-20:00		9B			9B			...
+20:00-21:00		...			...			free
+
+
+9A		306
+9B		207
+9C		307
+10A		303
+
+9B Montis Awards
+MB Poliforum
+	Walk N past Sears, Chilis just before Yosemite on Altadena (Westside of street)
+Av. Insurgentes Sur 643, Nápoles, Benito Juárez, 03810 Ciudad de México, CDMX

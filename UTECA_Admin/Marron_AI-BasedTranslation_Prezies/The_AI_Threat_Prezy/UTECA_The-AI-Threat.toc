@@ -1,0 +1,10 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{The Answer}{2}{0}{1}
+\beamer@sectionintoc {2}{A Few Definitions}{4}{0}{2}
+\beamer@sectionintoc {3}{Public AI Translators\\ (free with limitations)}{6}{0}{3}
+\beamer@sectionintoc {4}{Registered User AI Translators \\ (pay per limit)}{14}{0}{4}
+\beamer@sectionintoc {5}{The Science}{17}{0}{5}
+\beamer@sectionintoc {6}{The Answer (revisited)}{21}{0}{6}
+\beamer@sectionintoc {7}{Recommendations}{23}{0}{7}
+\beamer@sectionintoc {8}{The Future}{25}{0}{8}
+\beamer@sectionintoc {9}{Thank you!}{27}{0}{9}

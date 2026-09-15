@@ -1,0 +1,20 @@
+
+
+#######################
+Docs for UTECA Library
+########################
+Books
+* Murphy, R. (2019). English Grammar in Use (5th ed.) Cambridge University Press.
+* Strunk, W., & White, E. B. (1979). The elements of style. 3d edition. Macmillan.
+* White, E.B. (1952). Charlotte's web. Harper & Row Publishers.
+* Anaya, R. A. (1994). Bless me, Ultima. Warner Books.
+* Tan, A. (2006). The Joy Luck Club. Penguin Books.
+* Sen, A. (1999). Development as freedom. Alfred A. Knop
+* MacKay, D. J. (2003). Information theory, inference and learning algorithms. Cambridge university press.
+
+Articles
+* Steffen, W., Rockström, J., et al. (2018). Trajectories of the Earth System in the Anthropocene. Proceedings of the national academy of sciences, 115(33), 8252-8259.
+* Daly,H. E. (1993). The perils of free trade. Scientific American, 269(5), 50-57.
+* Santoni de Sio, F., & Mecacci, G. (2021). Four responsibility gaps with artificial intelligence: Why they matter and how to address them. Philosophy & technology, 34(4), 1057-1084.
+
+

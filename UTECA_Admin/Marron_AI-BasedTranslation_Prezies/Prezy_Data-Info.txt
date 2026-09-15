@@ -1,0 +1,288 @@
+
+Google Translate - DeepL - OpenAI		<== three public AI platforms for language translation
+
+LLM		Large Language Model
+GNMT		Google Neural Machine Translation [current Google]
+GPT		Generative Pre-trained Transformer	[OpenAI]
+
+API		Application Programming Interface
+SDK		Software Development Kit
+
+ 
+SMT 		Statistical machine translation [original Google]
+
+
+
+Generative Pre-trained Transformer is a type of foundational LLM (Large Language Model) that can generate content in over 90 languages, as well as machine translate text into dozens of different languages. The latest version of the GPT family is GPT-4.
+
+GPT-4o for real-time translation
+Get ready to take GPT-4o on vacation. The low latency speech capabilities of GPT-4o mean that real-time translation is now possible (if you have roaming data on your cellphone plan!). This means that traveling in countries where you don't speak the language just got a lot easier.
+
+
+---https://community.openai.com/t/how-good-is-chatgpt3-5-gpt4-translations/521913/18
+I have been using DeepL and GPT-4 for translation. In terms of accuracy, DeepL is better than GPT-4, but GPT-4 is sometimes better from the readability point of view. Having a two-step process with DeepL (pure translation) + GPT-4 (improving fluency) is working well. However, there are some problems regarding word selection, and it does not use the most natural ones, probably because it is very focused on literal translation. You can give more freedom to the model to explore more, but then the accuracy is going to be lower, and in my case, accuracy is key.
+
+
+Hi, We’re running GPT4 translations on english, german, french, spanish, italian, portugese, on a daily basis, and I can assure you it’s the best available option hands down. Also we tried it successfully on russian, japanese, and chinese. GPT4 is our choice to answer our guests from all around the world. And if you work on your prompts thoroughly, there will be no need for second iterations at all.
+
+
+We have translation services, and tested it with human translators.
+We get 95% accuracy. It is great for business purposes. We can do localization across common languages faster and cheaper.
+
+
+
+---- https://www.machinetranslation.com/blog/translating-with-chat-gpt4
+GPT-4, the fourth and newest iteration of the Generative Pre-trained Transformer series, is the talk of the town with its very impressive language translation technology that’s taking multilingual communication by storm. GPT-4 has the remarkable ability to analyze the context and meaning of words and sentences, which makes it able to make more accurate translations that heavily considers the nuances of language and culture. What's more, it can translate between languages that it has never been trained on, making it a game-changer for international business and diplomacy.
+
+However, with great power comes great responsibility. The use of GPT-4 for multilingual communication raises ethical concerns, including issues of bias and accuracy. It is important to ensure that translations are not reinforcing harmful stereotypes or perpetuating cultural misunderstandings.
+
+Additionally, there is the risk that GPT-4 could become so advanced that it replaces human translators entirely. While this may be more efficient and cost-effective, it could also result in the loss of jobs and the devaluation of the human element in communication.
+
+
+Conclusion: Multilingual Communication Made Effortless with GPT-4
+GPT-4 is amazing at breaking down language barriers and bringing people closer together. Through its advanced language translation capabilities, GPT-4 is enabling industries such as business, education, and healthcare to operate seamlessly across different languages and cultures.
+
+
+
+
+
+---https://platform.openai.com/docs/models/gpt-4o
+GPT-4o
+GPT-4o (“o” for “omni”) is our most advanced GPT model. It is multimodal (accepting text or image inputs and outputting text), and it has the same high intelligence as GPT-4 Turbo but is much more efficient—it generates text 2x faster and is 50% cheaper. Additionally, GPT-4o has the best vision and performance across non-English languages of any of our models. GPT-4o is available in the OpenAI API to paying customers. Learn how to use GPT-4o in our text generation guide.
+
+
+
+--- https://chatgpt.com/g/g-aAyptxijU-gpt-translate
+GPT Translate
+A language translator for a wide range of languages, powered by ChatGPT 4
+
+
+
+--- https://www.smartling.com/resources/101/using-gpt-for-translation-how-to-get-the-best-outcomes/
+How GPT is affecting the translation industry
+
+Limitations aside, GPT has made a splash in the translation industry. But it’s not what many expected. Some feared that the rise of artificial intelligence—LLMs and machine translation engines included—would put human translators out of work. In reality, their role has changed.
+
+Traditionally, translators have done most of the work themselves with the help of translation tools. Now, LLMs like GPT, a part of Smartling’s Neural Machine Translation Hub, can do the bulk of the work, with translators doing more prompt engineering and post-editing. In Olga’s words, there’s now a “mutual companionship [between translators and AI]. The translator is equal parts “prompts creator” and “validator of AI outputs.”
+
+See Smartling in Action
+Learn how the translation platform built for global companies works in this 5 minute run-through video of Smartling. Afterwards, book a meeting with us to discuss how you can better manage content translation.
+
+
+--- https://www.smartling.com/translation-services/translators/
+
+
+
+--- https://platform.openai.com/docs/libraries
+
+Python
+	from openai import OpenAI
+	client = OpenAI()
+	completion = client.chat.completions.create(
+    		model="gpt-4o",
+    		messages=[
+        		{"role": "user", "content": "write a haiku about ai"}
+   		]
+	)
+
+
+--- https://platform.openai.com/docs/guides/text-generation
+
+Building prompts
+The process of crafting prompts to get the right output from a model is called prompt engineering. By giving the model precise instructions, examples, and necessary context information (like private or specialized information that wasn't included in the model's training data), you can improve the quality and accuracy of the model's output. Here, we'll get into some high-level guidance on building prompts, but you might also find the prompt engineering guide helpful.
+
+--- https://platform.openai.com/docs/guides/prompt-engineering
+
+
+--- https://platform.openai.com/docs/examples
+
+--- https://platform.openai.com/docs/guides/rate-limits?context=tier-free
+Rate limits are measured in five ways: 
+	RPM (requests per minute), 
+	RPD (requests per day), 
+	TPM (tokens per minute), 
+	TPD (tokens per day), and 
+	IPM (images per minute). 
+Rate limits can be hit across any of the options depending on what occurs first. For example, you might send 20 requests with only 100 tokens to the ChatCompletions endpoint and that would fill your limit (if your RPM was 20), even if you did not send 150k tokens (if your TPM limit was 150k) within those 20 requests.
+
+FREE
+Model		RPM	RPD	TPM		Batch Queue Limit
+gpt-4o-mini	3	200	40,000
+
+
+Model		RPM	RPD		TPM			Batch Queue Limit
+gpt-4o		500	-		30,000		90,000
+gpt-4o-mini	500	10,000	200,000		2,000,000
+
+
+Tier	Qualification	Usage limits
+Free		User must be in an allowed geography				$100 / month
+Tier 1	$5 paid										$100 / month
+Tier 2	$50 paid and 7+ days since first successful payment	$500 / month
+
+
+
+--- https://promptly.engineering/resources/how-to-use-gpt-4-for-language-translation-a-step-by-step-guide
+Acquiring Access to GPT-4
+Currently, GPT-4 is not yet available to the general public. Access to GPT-4 is granted through OpenAI's API, which provides access to the model's language processing capabilities. To gain access to the API, you will need to apply for permission on the OpenAI website.
+
+Once you have applied for access, it may take some time for your application to be reviewed and approved. OpenAI carefully evaluates each application to ensure that the technology is being used in a responsible and ethical manner.
+
+Once your application has been approved, you will receive an API key that you can use to access GPT-4's language processing capabilities.
+
+Once you have gained access to the API, you will need to install the necessary libraries and dependencies to use GPT-4 for language translation. Some of the key libraries and dependencies you will need include Python, PyTorch, and transformers. 
+
+Once you have configured GPT-4 for your project, you will be ready to start using the model for language translation. However, it is important to keep in mind that GPT-4 is a complex and powerful tool, and it may take some time to fully understand its capabilities and limitations.
+
+Before you can begin the translation process, you need to initialize GPT-4 for translation. This involves loading the model and any necessary data sets into memory.
+
+With time and practice, you will become proficient in using GPT-4 for language translation. Whether you are a professional translator or simply someone who needs to translate text for personal use, GPT-4 can help you achieve your goals quickly and accurately.
+
+
+
+Personally I do translations in 2 passes, one is the translation and the second pass is to tell the model that this text has been translated and to to correct it to sound like a native speaker wrote it.
+
+
+
+
+
+---- https://www.tek-tips.com/threads/use-gpt-4-for-translating-text.1829995/
+Temperature 
+	controls the "creativity" of the generated text, between 0 and 2. A higher temperature will result in more diverse and unexpected responses. A 		
+	very high temperature can result in hallucinations. Lower temperatures will result in more deterministic responses. The default value for 
+	temperature is 1.0, but you can experiment with different values to see what works best for your use case.
+
+Top_p - 
+	An alternative to sampling with temperature, called nucleus sampling, where the model considers the results of the tokens with top_p 
+	probability mass. 1 is the default value. So 0.1 means only the tokens comprising the top 10% probability mass are considered.
+
+
+---- https://www.websiteplanet.com/blog/how-to-use-chatgpt-for-translation/
+Translate EXPERT vs GPT-4 
+non-AI translation tools like Google Translate
+
+
+---- https://prodoc-translations.com/en/blog/prompts-for-translation-tasks/
+The art of prompt creation is crucial for the quality of the results generated by models like ChatGPT. Especially in translations, it’s important to structure prompts clearly, precisely, and with the right context to avoid misunderstandings and ensure that cultural and technical nuances are correctly translated. The more precise the prompt, the better the response—this rule applies to every type of AI application.
+
+What Matters When Creating Prompts?
+
+The quality of the responses generated by an AI model like ChatGPT depends heavily on the structure and precision of the prompt. Here are some fundamental principles to consider when creating prompts:
+
+Clarity and Precision: A good prompt should be as clear as possible. Ambiguous or unclear instructions often lead to vague or incorrect results. For example, if you need a text translated into German that contains many technical terms, you should specify that clearly.
+
+    Example: “Translate this technical text into German and ensure the technical terms are correctly used.”
+
+Context: Always include the necessary context in a prompt. In translations, it’s important to account for cultural or industry-specific nuances.
+
+    Example: “Translate this text into Spanish, taking into account the regional differences between Spain and Latin America.”
+
+Specific Requirements: Often, it’s not enough to simply ask for a translation. You should also tell the model how to translate (e.g., formal or informal, technical or easy to understand).
+
+    Example: “Translate this contract into English and make sure all legal terms are accurate.”
+
+Assign a Role or Style: Language models respond particularly well when assigned a specific role or style. You can, for example, indicate that the model should act as a professional translator or a subject matter expert.
+
+    Example: “You are a professional translator with expertise in IT. Translate this technical report from English to German.”
+
+Types of Prompts for Translation Tasks
+
+When it comes to translations, structured prompts are particularly valuable to ensure both accuracy and cultural relevance. Here are some ways to optimize prompts for translation tasks:
+
+    Technically Precise Prompts: For technical or industry-specific translations, it’s crucial to ensure the prompt includes the correct terms and tone.
+    Good prompt: “Translate this scientific article on quantum physics into Spanish, ensuring that all technical terms are correctly translated.”
+    Culturally Adapted Prompts: Especially for marketing or literary texts, it’s essential to adjust the style to the cultural norms of the target audience.
+    Good prompt: “Translate this advertisement into French and ensure the tone is engaging for a French audience.”
+
+Example of a Good Prompt for Translation Tasks
+
+“Translate the following technical report into German. Ensure that IT-specific terms are accurately translated, and maintain a professional tone. Use commonly accepted German terms for technical jargon, and avoid unnecessary Anglicisms.”
+
+This prompt is clear and gives detailed instructions on how the translation should be handled, leading to a precise and accurate result.
+Example of a Bad Prompt for Translation Tasks
+
+“Translate this text into German.”
+
+This prompt is too general and does not give the AI any indication of how to handle technical terms, the tone to use, or the target audience. As a result, the outcome may be vague and less helpful.
+
+
+
+
+---- https://promptbase.com/best-ai-prompts
+---- https://medium.com/@HardikKawale/python-and-openai-for-language-translation-a-comprehensive-guide-d404c9fca2d0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###########
+Google
+#########
+https://translate.google.com/?sl=en&tl=es&op=translate
+
+"For what is it to die but to stand naked in the wind and to melt into the sun? And when the earth shall claim your limbs, then shall you truly dance."
+	― Kahlil Gibran, artist and poet.
+
+English ==> Spanish
+The Anthropocene is a proposed new geological epoch based on the observation that human impacts on essential planetary processes have become so profound that they have driven the Earth out of the Holocene epoch in which agriculture, sedentary communities, and eventually, socially and technologically complex human societies developed. The formalization of the Anthropocene as a new geological epoch is being considered by the stratigraphic community, but regardless of the outcome of that process, it is becoming apparent that Anthropocene conditions transgress Holocene conditions in several respects. The knowledge that human activity now rivals geological forces in influencing the trajectory of the Earth System has important implications for both Earth System science and societal decision making.
+
+
+El Antropoceno es una nueva época geológica propuesta basada en la observación de que los impactos humanos en los procesos planetarios esenciales se han vuelto tan profundos que han sacado a la Tierra de la época del Holoceno en la que se desarrollaron la agricultura, las comunidades sedentarias y, finalmente, las sociedades humanas social y tecnológicamente complejas. La comunidad estratigráfica está considerando la formalización del Antropoceno como una nueva época geológica, pero independientemente del resultado de ese proceso, se está volviendo evidente que las condiciones del Antropoceno transgreden las condiciones del Holoceno en varios aspectos. El conocimiento de que la actividad humana ahora rivaliza con las fuerzas geológicas en la influencia de la trayectoria del Sistema Tierra tiene implicaciones importantes tanto para la ciencia del Sistema Tierra como para la toma de decisiones sociales.
+
+
+
+
+Spanish ==> English  
+LEY FEDERAL DEL TRABAJO
+Nueva Ley publicada en el Diario Oficial de la Federación el 1º de abril de 1970
+TEXTO VIGENTE
+Última reforma publicada 30-09-2024
+
+ARTICULO 15. La Secretaría del Trabajo y Previsión Social deberá pronunciarse respecto de la solicitud de registro dentro de los veinte días posteriores a la recepción de la misma, de no hacerlo, los solicitantes podrán requerirla para que dicte la resolución correspondiente, dentro de los tres días siguientes a la
+presentación del requerimiento. Transcurrido dicho plazo sin que se notifique la resolución, se tendrá por
+efectuado el registro para los efectos legales a que dé lugar.[Artículo 15.LEY FEDERAL DEL TRABAJO, publicada 30-09-2024
+
+[Google Terrible!!]
+
+The Ministry of Labor and Social Welfare (MLSW) must approve or reject the registration request within twenty days after its receipt in the offices of the MLSW. If the MLSW fails to do so, the applicants may formally require that the MLSW resolve the issue within three business days. If, after this second period has elapsed without notification of the status of the registration request, the registration request will be deemed approved for all applicable legal purposes. [Marron translation]
+
+
+#############
+ChatGPT
+############
+marron.bruce.mx@gmail.com
+
+47Co59LupM67
+
+prompt:	Translate the following text from Spanish to English,
+The Ministry of Labor and Social Welfare must issue a decision regarding the registration request within twenty days following its receipt. If it fails to do so, the applicants may require the Ministry to issue the corresponding resolution within three days after the submission of the request. If this period elapses without notification of the resolution, the registration will be deemed completed for all applicable legal purposes.
+
+
+prompt:	Translate the following text from Spanish to English as a professional ltranslator
+The Ministry of Labor and Social Welfare must issue a decision regarding the registration request within twenty days of receiving it. If it fails to do so, the applicants may formally request that the corresponding resolution be issued within three days following the submission of such a request. If this period elapses without notification of the resolution, the registration will be considered completed for all applicable legal purposes.
+
+
+
+
+
+
+
+
+
+
+
+
+
