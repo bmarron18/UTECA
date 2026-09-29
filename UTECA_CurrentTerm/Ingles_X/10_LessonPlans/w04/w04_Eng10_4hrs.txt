@@ -7,17 +7,20 @@ Curso:			INT1044
 Licenciatura: 	Interpretación y Traducción
 
 
+Lost 2 hrs to "Tradupalooza"........
+
 
 #####################
-HW_04 [Due: 09 Jun 2026]
-
+HW_04 [Due: 06 Oct 2026] [Due: 07 Oct 2026]
 
 --- Task 1
 In preparation for upcoming coding activities, obtain a Google Gemini API key or an OpenAI API key by following the directions in either PART I or Part II of the document, "API_Installations-Activations-Preparations.txt" (in Teams):
 
 Get Gemini key and guard it!
 *	PART I: Setup Instructions for using Google Gemini AI Models
+
 OR
+
 Get OpenAI key and guard it!
 *	PART II: Setup Instructions for using Openai GPT AI Models
 
@@ -30,23 +33,7 @@ After obtaining Gemini key, scan the remainder of the doc; that is,scan the foll
 *   PART VIII: Sample Gemini Prompts and System Instructions
 
 
-
 --- Task 2
-Follow the detailed instructions in PART III of the document, "API_Installations-Activations-Preparations.txt". Basically, this involves the following sub-tasks:
-
-** Install Python 
-** Install Spyder 
-** Review Windows filesystem operations snippets 
-** Verify the version of Python installed 
-** Verify the installation of Spyder-6
-** Learn the fundamentals of virtual environments in Python
-
-Extra Credit: Learn how to store your API key as ENV VARIABLE in your computer [recommended]
-
-In your homework please tell me (honestly) how far you got with these sub-tasks. 
-
-
---- Task 3
 Read Chapter 7, and Chapter 8 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 	Ch. 7	o Half and Half: Rose Hsu Jordan
 	Ch. 8	o Two Kinds: Jing-Mei Woo
@@ -109,44 +96,31 @@ From the "Biography of Yuan Xingchong" in the Old Book of Tang (《旧唐书·�
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
---- Review
-HW Notes
-	Watch formatting!
-		header
-		No UTECA logo
-		titles
-		font
-		margins
-		widows/orphans
-		
-	Be clear on tasks
-		a summary is a summary (no commentary)
-		
-	Use a standard format for lists (ordered or unordered)
-	
-	T/O == throughout
 
 
-
+Presentation Hints
 ----------
-** Presentation Hints
 	1. You are talking to people ==> eye contact
 		You can use silence (Relax!)
-	2. Focus on the speaker in group prezy.
+	2. Focus on the speaker in a group prezy.
 	3. Share the content equally (group prezy)
 	
 
-** Presentation of three (3) slides		
+Presentation of three (3) slides
+----------------------------	
 	* All students to the front to present their slides.
 	* Graded
 
 
+
+
+SAVE
 -----------
 ** Again, Why Python?
 Python derrota a la IA y los expertos no dudan: "Se ha convertido en el lenguaje que abre múltiples puertas profesionales simultáneamente" 
 https://share.google/tmPoLIb4te3Ai8hKi
 
-
+SAVE
 -------------
 ** Basic Prompt Engineering
 
@@ -171,7 +145,7 @@ A "prompt" to AI contains TWO message types
 		Any text, image, or file inputs to the model that are used to generate a 
 		specific response.
 
-
+SAVE
 #####################
 Sample Gemini Prompts
 ######################
@@ -199,24 +173,27 @@ prompt = "Translate the document, processedfile (a .pdf file in English) to stan
 
 
 
+SAVE
 ------------
 ** Command line Linux, Winows, Mac/OS
 	Go thru "API_Installations_Windows-Basics.py"
 
 
-
+SAVE
 ---------------
 ** Installations / Preparations
 	Go thru PART III of "API_Installations-Activations-Preparations.txt"
 
 
 
+
+1P exam prep and HW
 ------------
-** 1P exam and hw!!
+	Go thru Study Guide and HW
 
 
+The Joy Luck Club" by Amy Tan 
 -----------
-** "The Joy Luck Club" by Amy Tan 
 
 %%%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
 1. Mother-Daughter Relationships
@@ -235,8 +212,67 @@ Lindo Jong			—>	Waverly Jong
 Ying-ying St. Clair		—>	Lena St. Clair
 
 
+AI Showdown Summaries 
+	
+Prompt
+	Give me a brief summary of "xxx", Chapter x of the novel, The Joy Luck Club
+	
+		ChatGPT
+			https://chatgpt.com/
+		DeepSeek
+			https://chat.deepseek.com/sign_in
+		Gemini
+			https://gemini.google.com/app
 		CliffNotes
 			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
+
+
+ Ch.2 "Scar: An-Mei Hsu"	
+	* An-Mai is from a broken home. Explain.
+	* What do you make of Popo's life lessons told to An-Mei?
+	* In the auntie's house, auntie is harsh to An-Mei and her brother. How does An-Mei's brother respond?
+	* What is the nature of curses (bad language) in auntie's house? Do you think this holds in general for Chinese culture?
+	* What happened in "the dream" about An-Mei and her mother?
+  	* Should psychological manipulation be allowed with children? (And then Popo said something that was worse than the burning on my neck. "Even your mother has used up her tears and left. If you do not get well soon, she will forget you."
+	* What "magic" did An-Mai's real mom use to try to save Popo (her mother)? And so, how does a daughter honor her mother?
+
+My auntie, who had a very bad temper with children, told him he had no shou, no respect for ancestors or family, just like our mother. Auntie had a tongue like hungry scissors eating silk cloth.
+
+"Even your mother has used up her tears and left. If you do not get well soon,
+she will forget you."
+
+ Ch. 3 "The Red Candle: Lindo Jong"
+	* Lindo indicates that she was, unlike other girl babies, valuable: "In my case, people could see my value." What does this imply about Chinese culture's relationship to girls?
+	* Lindo is betrothed at two years of age. What's your take on arranged marriages?
+	* Why is Lindo's betrothed (Tyan-yu) spoiled?
+	* Once betrothed, how does Lindo's family treat her?
+	* What happens to Lindo's family? As a result, what happens to Lindo?
+	* Are the Huangs pretentious? How do we know?
+	* What does "the complaints of twenty relatives" suggest?
+	* What thoughts does Lindo have on her wedding day?
+	* What is the significance of the red candle? What is the ritual associated with it?
+	* What really happens to the candle on the wedding night?
+	* Tyan-yu and Lindo end up having a special relationship. Explain.
+	* Why is Huang Taitai (Tyan-yu's mom) furious with Lindo about not having children? Who is lying?
+	* What is Lindo's plan for escape? Does it work?
+	* Lindo is a strong, self-reliant person. How do we know?
+
+The matchmaker bragged about me: "An earth horse for an earth sheep. This is the
+best marriage combination."
+
+ My mother would say to me when the rice bowl
+went up to my face too many times, "Look how much Huang Taitai's daughter can eat."
+
+ The rest of the house was plain and uncomfortable and noisy with the
+complaints of twenty relatives. 
+
+Can you see how the Huangs almost washed their thinking into my skin? I came to
+think of Tyan-yu as a god, someone whose opinions were worth much more than my own
+life. I came to think of Huang Taitai as my real mother, someone I wanted to please,
+someone I should follow and obey without question.
+
+
+
 
 
 --- Second Section Preamble: The Twenty-Six Malignant Gates

@@ -2,7 +2,7 @@ Title:					Setup instructions for using Google Gemini and OpenAI APIs
 Project:				UTECA Interpretacion y Traduccion 	
 Author:					bmarron
 Created:				May 2024
-Modified:				19 Sept 2026
+Modified:				27 Sept 2026
 
 
 
@@ -83,8 +83,7 @@ Setup Instructions for using OpenAI GPT AI Models
     				==> gpt-5.6-sol
     				==> gpt-5.6-terra
 
-   					==> gpt-live-transcribe
-      	Latest OpenAI SDK 			
+     Latest OpenAI SDK 			
       				==>  openai
 ############################################
 
@@ -141,17 +140,17 @@ Setup/Configuration of Major Components on Your Local Compu
 (Windows, MacOS)
 ####################
 
+General info
+----------
 >		<== indicates a Windows terminal
 $		<== indicates a MacOS terminal
 
 
-
-
-Open a new terminal in Windows as a user
---------
+To open a command line terminal in Windows
     # Click the Start menu and type "cmd" in the search bar
     # find the Command Prompt (system)
     # select "open"
+
 
 
 Install Python
@@ -164,7 +163,7 @@ Install Python
 			Download macOS 64-bit universal installer		<== MacOS
 			
 
-	- On Windows machines, be sure to INSTALL Python HERE (on local drive),
+	- On Windows machines, be sure to INSTALL Python HERE (on your local drive),
 C:\Users\<your-user-name>\AppData\Local\Programs\Python3.14
 
 
@@ -214,7 +213,8 @@ $ find ./ -name "*spyder*" -type d
 
 
 
-Verify "pip" installed and update it ("pip" is a Python package manager)
+Verify "pip" installed and update it 
+("pip" is a Python package manager)
 --------
 	- "pip" should already be installed with Python
 	
@@ -231,7 +231,7 @@ $ python3 -m pip --version
 
 Upgrade "pip"
 --------
-> python -m pip install --upgrade
+> python3 -m pip install --upgrade
 
 $ python3 -m pip install --upgrade		
 
@@ -302,7 +302,7 @@ Install into (ai-apis)
 	nltk 					<== Natural Language Toolkit
 ###########################################################################
 
-Notes: We will use python to create a virtual environment called, (ai-apis).
+Notes: We will use Python to create a virtual environment called, (ai-apis).
 The virtual environment will be created with the Python package, "venv"  using the command "venv". 
 The virtual environment will be created in a sub-directory in Spyder. 
 We will install special Python packages and SDK packages into the (ai-apis) virtual environment.
@@ -329,7 +329,7 @@ Activate the (ai-apis) virtual environment
 C:\Users\<you>\...\spyder-6\...\envs\ai-apis\Scripts> activate
 	
 	- When activated, you will see (ai-apis) at the command line
-		(ai-apis)>
+(ai-apis)>
 
 	- Keep this terminal open for the installation of special packages
 
@@ -498,6 +498,31 @@ Sample OpenAI
 User Prompts and
 System Prompts
 ################
+
+    # User level message
+user_prompt = (
+    "Design a complete, self-contained home-scale ecosanitation system that "
+    "effectively and efficiently recycles human waste into garden-ready "
+    "fertilizer. The system must be designed so that 1) it can handle human "
+    "waste from three adults; 2) it uses very little electricity and virtually "
+    "no freshwater; 3) it separates urine and feces; 4) it rapidly decomposes "
+    "fecal material using inoculations of specialized bacteria and fungi; and "
+    "5) it has a minimal ecological footprint. To begin exploring design options "
+    "for such a system, review open-source journals, textbooks, and relevant "
+    "source materials for advances in ecosanitation, advances in animal manure "
+    "processing, and advances in bacterial-fungal decomposition of waste "
+    "streams. Provide 1) a high-level conceptual design in both written and "
+    "graphical form; and 2) a list of relevant citations."
+)
+
+    # Developer level message
+sys_prompt = (
+    "You are an expert in bacterial and fungal decomposition techniques and "
+    "ecological engineering designs. Use web search to find and verify sources; "
+    "cite only sources you have actually located. When a file, chart, table, or "
+    "script would be useful, create it with the code interpreter and save it as "
+    "a file so the user can download it."
+)
 
 --- User Prompts ------------------------------
 	# User level messages
