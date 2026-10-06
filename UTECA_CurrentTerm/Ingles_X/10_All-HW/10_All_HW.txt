@@ -206,20 +206,26 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). Unless 
 HW 1P
 ########
 
-** HW_04 [Due: 09 Jun 2026]
+** HW_04 [Due: 06 Oct 2026] [Due: 07 Oct 2026]
+
 --- Task 1
-Follow the detailed instructions in PART III of the document, "API_Installations-Activations-Preparations.txt". This document can be found in Teams ==> Content Docs ==> Coding ==> API_Installations-Activations-Preps. Basically, this involves the following sub-tasks:
+In preparation for upcoming coding activities, obtain a Google Gemini API key or an OpenAI API key by following the directions in either PART I or Part II of the document, "API_Installations-Activations-Preparations.txt" (in Teams):
 
-** Install Python 
-** Install Spyder 
-** Review Windows filesystem operations snippets 
-** Verify the version of Python installed 
-** Verify the installation of Spyder-6
-** Learn the fundamentals of virtual environments in Python
+Get Gemini key and guard it!
+*	PART I: Setup Instructions for using Google Gemini AI Models
 
-Extra Credit: Learn how to store your API key as ENV VARIABLE in your computer [recommended]
+OR
 
-In your homework please tell me (honestly) how far you got with these sub-tasks. 
+Get OpenAI key and guard it!
+*	PART II: Setup Instructions for using Openai GPT AI Models
+
+After obtaining Gemini key, scan the remainder of the doc; that is,scan the following sections:
+*	PART III: Setup/Configuration of Major Components on Your Local Compu
+*	PART IV: Create	(ai-apis) and install packages into (ai-apis)
+*	PART V: Set Spyder to run in the (ai-apis) virtual environment
+*	PART VI: Run API scripts in Spyder 6
+*   PART VII: Notes on Prompt Engineering
+*   PART VIII: Sample Gemini Prompts and System Instructions
 
 
 --- Task 2
@@ -228,76 +234,56 @@ Read Chapter 7, and Chapter 8 of "The Joy Luck Club" and write a single summary 
 	Ch. 8	o Two Kinds: Jing-Mei Woo
 
 
---- Task 3
 Study Guide. DO NOT turn this in!
 
 1. The Han Empire has played a crucial role in the development of Chinese culture and identity.  Answer the following questions related to your studies of the Han Empire:
-    a. Roughly, what is the time period for the Han Empire?
-    b. List at least three (3) achievements of the Han Empire.
-    c. Translate the writing of Chinese characters (汉字) into English.
-    d. Why do you think most Chinese consider themselves to be Han?
-    e. Name two (2) scholastic sources that can be used to search academic articles related to the Han Empire. 
-    f. Very briefly summarize the topic of your three (3) slide presentation on the Han Empire.
+    a. List at least three (3) achievements of the Han Empire.
+    b. Translate the writing of Chinese characters (汉字) into English.
+    c. Why do you think most Chinese consider themselves to be Han?
+    d. Very briefly summarize the topic of your three (3) slide presentation on the Han Empire.
+ 
+2. Who are we? Where do we come from? Are we capable of cooperation?
+	a. Do you think humans are capable of real, international cooperation? Or are we naturally violentand solely driven by money and power?
+	b. What would be needed to create a truly peaceful, egalitarian, and creative society, as forexample, the societies of ‘Old Europe’ which were brought to light by the famous archaeologistand anthropologist, Marija Gimbutas?
 
-2. According to Reynolds, G. (2019) presentations using audio-visual aids can be surprisingly beautiful, engaging, and powerful.  
+3. According to Reynolds, G. (2019) presentations using audio-visual aids can be surprisingly beautiful, engaging, and powerful.  
     a. List three (3) suggested guidelines for dynamic storytelling in presentations.
     b. What is the role of creativity in the preparation of a presentation?
     
-3. Using AI as a professional requires a working knowledge of command line usage and coding (i.e., computer programming). Define the following terms:
+4. Current use of AI as a professional requires a working knowledge of command line usage and coding (i.e., computer programming). Define the following terms:
     a. API
     b. API Key
     c. Python
-    d. The command line interface
-    e. Spyder IDE
-    f. Google gemini-3-flash-preview
-    g. OpenAI gpt-5.5
-    h. Prompt Engineering
+    d. Command line interface
+    e. IDE (like Spyder)
+    f. Google Gemini series
+    g. OpenAI gpt series
+    h. Prompt engineering
 
-4. Select your favorite chapter from Chapters 1 – 4 of the novel, The Joy Luck Club and perform and/or answer the following:
+
+5. Select your favorite chapter from Chapters 1 – 4 of the novel, 'The Joy Luck Club' and perform and/or answer the following:
     a. Briefly explain why you selected the chapter.
-    b. What do you think is the main “take-away” from the chapter?
-    c. From the list of the novel’s major themes, which theme(s) apply to your selected chapter?
-    d. From your perspective, did AI (Gemini, ChatGPT, DeepSeek) do a good job summarizing the novel's chapters? Explain 
-    why or why not.
-    e. Write a five (5) sentence summary of the chapter in English and translate the summary into Spanish.
-
+    b. What, in your opinion, is the main “take-away” from the chapter?
+    c. Write a very brief summary of the chapter in English in seven (7) sentences or less.
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
 
-***	HW_03 [Due: 02 June 2026]
---- Task 1
-Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your research on the Han empire. Your talk should be no longer than 5-7 min. and also should cover the basic data on your selected paper; namely,
-	1. Who wrote the paper?
-	2. What is the paper about?
-	3. When was the paper published?
-	4. Where was the paper published (i.e., the journal of publication)?
-	5. Why did the author(s) write the paper?
 
-If you are investigating a topic that is not tied to a specific journal article, make sure to cover your information sources as close as possible to the above five questions. Upload your presentation slides as a .pdf file in Teams attached/keyed to this homework assignment.
+***	HW_03 [Due: 29 Sept 2026] [Due: 30 Sept 2026]
+
+--- Task 1
+Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your research on the Han empire. Your talk should be no longer than 5-7 min. If you are investigating a topic that is not tied to a specific journal article, make sure to cover your information sources. Upload your presentation slides as a .pdf file in Teams attached/keyed to this homework assignment.
 
 
 --- Task 2
-In preparation for upcoming coding activities, obtain a (Google) Gemini API key by following the directions in PART I of the document, "API_Installations-Activations-Preparations.txt" (found in ClassMaterials/ContentDocs/Coding/API_Installs-Activations-Preps). After obtaining Gemini key, scan the remainder of the doc; that is,
-
-Get Gemini key and guard it!
-*	PART I: Setup Instructions for using Google Gemini AI Models
-
-Scan
-*	PART II: Setup Instructions for using OpenAI GPT AI Models 
-*	PART III: Setup/Configuration of Major Components on Local Compu
-*	PART IV: Create	(ai-apis) and install packages into (ai-apis)
-*	PART V: Set Spyder to run in the (ai-apis) virtual environment
-*	PART VI: Run API scripts in Spyder 6
-
---- Task 3
 Read the Second Section Preamble, Chapter 5, and Chapter 6 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 	Second Section Preamble: The Twenty-Six Malignant Gates
 		Ch. 5	o Rules of the Game: Waverly Jong
 		Ch. 6	o The Voice from the Wall: Lena St. Clair
 
-NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.n the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
 ***	HW_02 [Due: 22 Sept 2026] [Due: 23 Sept 2026]

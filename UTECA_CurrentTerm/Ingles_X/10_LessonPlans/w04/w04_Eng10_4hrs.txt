@@ -7,8 +7,8 @@ Curso:			INT1044
 Licenciatura: 	Interpretación y Traducción
 
 
-Lost 2 hrs to "Tradupalooza"........
-
+Lost 2 hrs 10AC to "Tradupalooza"........
+Lost 1.5 hrs 10B to "Tradupalooza"........
 
 #####################
 HW_04 [Due: 06 Oct 2026] [Due: 07 Oct 2026]
@@ -92,6 +92,9 @@ Today
 
 
 
+
+
+
 From the "Biography of Yuan Xingchong" in the Old Book of Tang (《旧唐书·元行冲传》), this points out that a person involved in a matter usually does not have a comprehensive overview of it, due to too much concentration on the details, while the onlookers, who have a calmer and more objective attitude, have a better grasp of what is going on.
 
 
@@ -100,10 +103,10 @@ From the "Biography of Yuan Xingchong" in the Old Book of Tang (《旧唐书·�
 
 Presentation Tips
 ----------
-	1. You are talking to people ==> eye contact
-		You can use silence (Relax!)
-	2. Focus on the speaker in a group prezy.
-	3. Share the content equally (group prezy)
+	Tip 1. You are talking to people ==> eye contact
+		   You can use silence (Relax!)
+	Tip 2. Focus on the speaker in a group prezy.
+	Tip 3. Share the content equally (group prezy)
 	
 
 Presentation of three (3) slides
@@ -150,26 +153,19 @@ SAVE
 Sample Gemini Prompts
 ######################
 --- Developer Message ------------------------------------------
-config = types.GenerateContentConfig(
-               system_instruction="You are an expert linguist \
-                   specializing in translation. Maintain the original \
-                   meaning, and tone of the original. Provide ONLY the \
-                   requested translation without any additional commentary, \
-                   introductory phrases, other language translations, or \
-                   conversational remarks."),
+          system_instruction="You are an expert linguist \
+              specializing in translation. Maintain the original \
+               meaning, and tone of the original. Provide ONLY the \
+               requested translation without any additional commentary, \
+               introductory phrases, other language translations, or \
+               conversational remarks."
 
 
 --- User Message ------------------------------
 prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
     fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
-	Generate the output as MIME_Type = text/x-tex. That is. the output translation should be formated as \
-	a .tex file ready to open in LaTex."
-	
-prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
-    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
-	Generate the output as MIME type= text/plain. That is, generate the output as a plain text file 
-	(.txt)."
-########################################################################################
+	Generate the output as MIME type= text/plain. That is, generate the output as a plain text file (.txt)."
+########################################################################
 
 
 
@@ -257,19 +253,18 @@ she will forget you."
 	* What is Lindo's plan for escape? Does it work?
 	* Lindo is a strong, self-reliant person. How do we know?
 
-The matchmaker bragged about me: "An earth horse for an earth sheep. This is the
-best marriage combination."
+ The two ladies were looking at my face without talking. The lady with the watery voice had a painted face that was melting. The other lady had the dry face of an old tree trunk.
 
- My mother would say to me when the rice bowl
-went up to my face too many times, "Look how much Huang Taitai's daughter can eat."
+No, it's not true what some Chinese say about girl babies being worthless. It depends on what kind of girl baby you are. In my case, people could see my value. I looked and smelled like a precious buncake, sweet with a good clean color. The matchmaker bragged about me: "An earth horse for an earth sheep. This is the best marriage combination."
 
- The rest of the house was plain and uncomfortable and noisy with the
-complaints of twenty relatives. 
+Tyan-yu would be the leftover of his father's spirit. But his father lived and his grandmother was scared the ghosts would turn their attention to this baby boy and take him instead. So they watched him carefully, made all his decisions, and he became very spoiled.
 
-Can you see how the Huangs almost washed their thinking into my skin? I came to
-think of Tyan-yu as a god, someone whose opinions were worth much more than my own
-life. I came to think of Huang Taitai as my real mother, someone I wanted to please,
-someone I should follow and obey without question.
+ My mother would say to me when the rice bowl went up to my face too many times, "Look how much Huang Taitai's daughter can eat."
+
+
+It had been hastily built and then rooms and floors and wings and decorations had been added on in every which manner, reflecting too many opinions. The rest of the house was plain and uncomfortable and noisy with the complaints of twenty relatives. 
+
+Can you see how the Huangs almost washed their thinking into my skin? I came to think of Tyan-yu as a god, someone whose opinions were worth much more than my own life. I came to think of Huang Taitai as my real mother, someone I wanted to please, someone I should follow and obey without question.
 
 
 
@@ -290,12 +285,18 @@ The Moon Festival fell on a very hot autumn day. Ying-ying was restless; her nur
 
 Ying-ying recalls that the departure was delayed because the adults talked. She became increasingly restless until, finally, the servants began to load a rickshaw with provisions, and the family climbed aboard and departed for the river.
 
-Arriving at the lake, they discover that the air is no cooler there than it was inland. The children race around the deck of the floating pavilion, delighting in the ornate decorations, the pretty garden area, and the bustling kitchen. The excitement wanes, however, and after the meal, everyone settles down for a nap. Ying-ying watches some boys send a shackled bird into the water to catch fish. Later, she watches a servant gut fish, chickens, and a turtle, and, with alarm, she realizes that her new outfit is flecked with blood and fish scales. Panicking, she rubs more turtle blood over her clothing, thinking that no one will notice her transformation. The amah shrieks in terror when she sees Ying-ying covered with blood but gratefully strips off the soiled garments when she realizes that the child is unharmed.
+Arriving at the lake, they discover that the air is no cooler there than it was inland. The children race around the deck of the floating pavilion, delighting in the ornate decorations, the pretty garden area, and the bustling kitchen. The excitement wanes, however, and after the meal, everyone settles down for a nap. Ying-ying watches some boys send a shackled bird into the water to catch fish. Later, she watches a servant gut fish, chickens, and a turtle, and, with alarm, she realizes that her new outfit is flecked with blood and fish scales. Panicking, she rubs more turtle blood over her clothing, thinking that no one will notice her transformation. Amah shrieks in terror when she sees Ying-ying covered with blood but gratefully strips off the soiled garments when she realizes that the child is unharmed.
 
-Alone on the back of the boat in her undergarments, Ying-ying waits as the moon rises. She turns to find the Moon Lady and slips into the water. She is caught in a fishing net and dumped on the deck of another boat. By now, there are so many boats on the water that Ying-ying cannot see her family's boat. She is put on shore, where she watches the Moon Lady performing. Instantly, she is enchanted by the pageant and by the beautiful, soft-spoken Moon Lady. When the play ends, the Moon Lady announces that she will grant a wish. Ying-ying rushes backstage and there, she sees the Moon Lady pull off her hair, drop her gown, and she realizes that the Moon Lady is a man.
+Alone on the back of the boat in her undergarments, Ying-ying waits as the moon rises. Firecrackers scare her and she falls into the water. She is caught in a fishing net and dumped on the deck of another boat. By now, there are so many boats on the water that Ying-ying cannot see her family's boat. She is put on shore, where she watches the Moon Lady performing. Instantly, she is enchanted by the pageant and by the beautiful, soft-spoken Moon Lady. When the play ends, the Moon Lady announces that she will grant a wish. Ying-ying rushes backstage and there, she sees the Moon Lady pull off her hair, drop her gown, and she realizes that the Moon Lady is a man.
 
 Although Ying-ying is rescued by her family, she never believes that she is the same girl. She also forgets many of the details of the day. Today, many years later, when her life is coming to an end, she finally remembers what she asked the Moon Lady: she asked to be "found."
 
+
+"This is because...because if you ask it...it is no longer a wish but a selfish desire," said Amah. "Haven't I taught you—that it is wrong to think of your own needs? A girl can never ask, only listen."
+
+She said I could sit in the courtyard and eat it (mooncake) with my two little half-sisters, Number Two and Number Three
+
+I loved my shadow, this dark side of me that had my same restless nature.
 
   Qs
 	* Why does Ying-Ying keep her mouth shut? How does she express this?
@@ -326,6 +327,8 @@ Although Ying-ying is rescued by her family, she never believes that she is the 
 	* Is a wish to the Moon Lady free?
 	* What is shocking to Ying-Ying about the true nature of the Moon Lady?
 	* What is Ying-Ying's secret wish? What do you make of it?
+
+
 
 
 --- Rules of the Game: Waverly Jong (Ch 5)

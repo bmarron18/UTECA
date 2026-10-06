@@ -96,21 +96,140 @@ From the anonymous work "Fight Gratitude" (《争报恩》) of the Yuan Dynasty 
 
 
 ----------
-* Exam 1P (Tuesday)
+* Exam 1P (Tuesday/Wed)
 
 
 
 
 PART II
+
+Why APIs?
+----------
+	* Access is survival
+
+Accessing AI agents through an API is superior when you need to automate background workflows, pass structured data directly into existing software systems, or enforce precise parameter control at scale. Conversely, a chat interface is better suited for ad-hoc tasks, interactive brainstorming, and fast human-in-the-loop experimentation where writing code is unnecessary.
+
+Using APIs for sophisticated queries and prompts offers significant advantages over standard web interfaces or manual prompting, particularly for automation, scalability, and precise control.
+Here are the primary advantages, grouped by capability:
+
+## 1. Advanced Programmatic Control
+	* Dynamic Prompt Engineering: You can use code to programmatically inject variables, system instructions, and context into a prompt template dynamically based on real-time user data or external databases.
+
+	* Structured Input/Output: APIs allow you to strictly enforce data schemas. You can use tools like JSON Schema or function calling to ensure the AI returns data in a structured format (like JSON), which can be parsed directly by other software without regex hacking.
+
+	* Separation of Concerns: APIs separate the system instructions (which define behavior, safety guardrails, and role) from the user input, preventing users from easily bypassing instructions via prompt injection.
+
+## 2. State and Context Management
+	* Fine-Grained Context Control: For sophisticated, multi-turn queries, you can manually manage the exact conversation history sent to the model. You can prune unnecessary tokens, summarize earlier parts of the chat, or inject specific semantic memory to maximize the context window efficiently.
+
+	* Batch Processing: APIs allow you to send dozens or thousands of complex queries simultaneously (asynchronous batching), which is impossible to do manually through a chat interface.
+
+	* Real-time data retrieval: APIs connect static LLMs to live databases, streaming metrics, and external knowledge repositories so queries are answered with current information.
+
+## 3. Hyperparameter Tuning
+	* Precision Configuration: Web interfaces lock you into default settings. APIs allow you to tweak critical parameters per query:
+
+		* Temperature & Top-P: Control the randomness and creativity of the output.
+   		* Frequency & Presence Penalties: Prevent the model from repeating words or force it to introduce new topics.
+   		* Max Tokens: Explicitly limit or expand response length.
+
+## 4. Integration and Automation (M2M)
+	* Chain of Thought & Agents: APIs enable you to build complex agentic workflows where the output of one model or query automatically forms the prompt for the next query (e.g., LangChain or AutoGen frameworks).
+
+	* Retrieval-Augmented Generation (RAG): You can connect your prompts directly to vector databases, internal APIs, or search engines, allowing the model to answer sophisticated queries using proprietary or live data.
+
+## 5. Analytics, Monitoring, and Security
+	* Cost and Token Tracking: APIs provide precise data on prompt and completion token usage, allowing you to optimize prompts specifically to reduce latency and costs.
+
+	* Enterprise Security: API data usage typically comes with stricter privacy policies (e.g., zero data retention for training), ensuring that proprietary business logic or sensitive query data remains secure.
+
+
+API vs Chat Interface
+------------------------------
+## When to Use an API
+	* Automating Pipelines: You want an agent to autonomously scrape data, format it into a report, and drop it into a Slack channel or AWS bucket every night.
+
+	* Building a Product: You are embedding agentic features directly into your own customer-facing software.
+
+	* Deterministic Scaling: You need a high-volume, reliable task completed thousands of times with a predictable budget and verifiable JSON structure. [3, 5] 
+
+
+## When to Use a Chat Interface
+	* Prototyping: You are testing an initial prompt concept to see if a model can handle the logic before committing to engineering resources.
+
+	* Interactive Troubleshooting: You need a companion to iterate through code bugs, draft an email, or pivot across ambiguous topics where human verification is critical at every step.
+
+	* No-Code Teams: Non-technical operators need access to general knowledge reasoning without developer middleware.
+
+
+
+Why Python?
 -----------
-** Installations / Preparations
-	Review PART III of "API_Installations-Activations-Preparations.txt"
-
-	PART IV
-	Do the installations on Melissa's computer
+Los expertos no dudan: "Se ha convertido en el lenguaje que abre múltiples puertas profesionales simultáneamente" 
+https://share.google/tmPoLIb4te3Ai8hKi
 
 
 
+
+Prompt Engineering
+-------------
+
+A "prompt" to AI contains TWO message types
+	1) developer message 
+	2) user message
+
+Developer messages (AI role play instructions; system instructions)
+	-gives the model high-level instructions on how it should behave while generating a 
+	response, including tone, 
+	- goals, and examples of correct responses. Any instructions provided this way will take 
+	priority over a prompt in the input parameter.
+
+User messages (task instructions; input parameters)
+		Any text, image, or file inputs to the model that are used to generate a 
+		specific response.
+
+
+
+Sample OpenAI Prompt
+-----------------------
+/home/bruce-vdb/Desktop/Marron_Projects/AI/AI_Queries_Chats+APIs/OpenAI/Scripts_OpenAI/A_Scripts/Templates/A_Template_ResearchQuery_openai-sdk_v2.0.py
+
+user_prompt = (
+    "Design a complete, self-contained home-scale ecosanitation system that "
+    "effectively and efficiently recycles human waste into garden-ready "
+    "fertilizer. The system must be designed so that 1) it can handle human "
+    "waste from three adults; 2) it uses very little electricity and virtually "
+    "no freshwater; 3) it separates urine and feces; 4) it rapidly decomposes "
+    "fecal material using inoculations of specialized bacteria and fungi; and "
+    "5) it has a minimal ecological footprint. To begin exploring design options "
+    "for such a system, review open-source journals, textbooks, and relevant "
+    "source materials for advances in ecosanitation, advances in animal manure "
+    "processing, and advances in bacterial-fungal decomposition of waste "
+    "streams. Provide 1) a high-level conceptual design in both written and "
+    "graphical form; and 2) a list of relevant citations."
+)
+
+sys_prompt = (
+    "You are an expert in bacterial and fungal decomposition techniques and "
+    "ecological engineering designs. Use web search to find and verify sources; "
+    "cite only sources you have actually located. When a file, chart, table, or "
+    "script would be useful, create it with the code interpreter and save it as "
+    "a file so the user can download it."
+)
+
+
+AI thru an API
+---------------
+"API_Installations-Activations-Preparations.txt"
+
+
+
+SAVE
+------------
+** Command line Linux, Winows, Mac/OS
+	Go thru "API_Installations_Windows-Basics.py"
+
+SAVE
 ------------
 	Intro to NLTK
 
@@ -171,9 +290,9 @@ Annotated HW Task 2 ---
 
 
 	
-
+"The Joy Luck Club" by Amy Tan 
 -----------
-** "The Joy Luck Club" by Amy Tan 
+
 
 %%%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
 1. Mother-Daughter Relationships
@@ -192,9 +311,103 @@ Lindo Jong			—>	Waverly Jong
 Ying-ying St. Clair		—>	Lena St. Clair
 
 
-CliffNotes
-https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
+Prompt
+	Give me a brief summary of "xxx", Chapter x of the novel, The Joy Luck Club
+	
+		ChatGPT
+			https://chatgpt.com/
+		DeepSeek
+			https://chat.deepseek.com/sign_in
+		Gemini
+			https://gemini.google.com/app
+		CliffNotes
+			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
 
+
+
+--- Second Section Preamble: The Twenty-Six Malignant Gates
+Qs
+	* Parent always try to keep their children safe. In this context, what are the 26 Malignant Gates?
+	* Why does the girl rebel against the admonishments of the 26 Malignant Gates?
+
+
+--- The Moon Lady: Ying-Ying St. Clair (Ch 4)
+The drama in which the Moon Lady is a major character concerns the loss and reclamation of cultural and individual identities. Four-year-old Ying-ying, who has fallen overboard, is desperate to be "found" — to once again be reunited with her family — and with herself. She feels as though she has not only lost her family, but that she has also lost her "self." As an old lady many years later, Ying-ying poignantly tells how she "lost herself." She says that she surrendered her identity as she felt herself being transformed into a shadow, insubstantial and fleeting.
+
+In contrast to that loss and eventual reclamation, Ying-ying explains that today, as an old lady, she realizes that she and her daughter have suffered similar losses, and she wonders if these losses will ever be recovered. She and her daughter can no longer hear one another because Ying-ying rarely voices her thoughts. It was not always so; on the night when she was four years old, she shared her thoughts with the Moon Lady.
+
+The Moon Festival fell on a very hot autumn day. Ying-ying was restless; her nurse (her amah) had dressed her in the heavy silk jacket and pants that Ying-ying's mother had made for her daughter to wear to the Moon Festival. Ying-ying remembers that her amah told her that soon they would see Chang-o, the Moon Lady, who becomes visible on this day only, and when people see her, they can ask for one secret wish to be fulfilled. The Moon Lady is not an ordinary person, the amah explained.
+
+Ying-ying recalls that the departure was delayed because the adults talked. She became increasingly restless until, finally, the servants began to load a rickshaw with provisions, and the family climbed aboard and departed for the river.
+
+Arriving at the lake, they discover that the air is no cooler there than it was inland. The children race around the deck of the floating pavilion, delighting in the ornate decorations, the pretty garden area, and the bustling kitchen. The excitement wanes, however, and after the meal, everyone settles down for a nap. Ying-ying watches some boys send a shackled bird into the water to catch fish. Later, she watches a servant gut fish, chickens, and a turtle, and, with alarm, she realizes that her new outfit is flecked with blood and fish scales. Panicking, she rubs more turtle blood over her clothing, thinking that no one will notice her transformation. Amah shrieks in terror when she sees Ying-ying covered with blood but gratefully strips off the soiled garments when she realizes that the child is unharmed.
+
+Alone on the back of the boat in her undergarments, Ying-ying waits as the moon rises. Firecrackers scare her and she falls into the water. She is caught in a fishing net and dumped on the deck of another boat. By now, there are so many boats on the water that Ying-ying cannot see her family's boat. She is put on shore, where she watches the Moon Lady performing. Instantly, she is enchanted by the pageant and by the beautiful, soft-spoken Moon Lady. When the play ends, the Moon Lady announces that she will grant a wish. Ying-ying rushes backstage and there, she sees the Moon Lady pull off her hair, drop her gown, and she realizes that the Moon Lady is a man.
+
+Although Ying-ying is rescued by her family, she never believes that she is the same girl. She also forgets many of the details of the day. Today, many years later, when her life is coming to an end, she finally remembers what she asked the Moon Lady: she asked to be "found."
+
+
+"This is because...because if you ask it...it is no longer a wish but a selfish desire," said Amah. "Haven't I taught you—that it is wrong to think of your own needs? A girl can never ask, only listen."
+
+She said I could sit in the courtyard and eat it (mooncake) with my two little half-sisters, Number Two and Number Three
+
+I loved my shadow, this dark side of me that had my same restless nature.
+
+  Qs
+	* Why does Ying-Ying keep her mouth shut? How does she express this?
+	* How does Ying-Ying see her daughter and herdaughter's life?
+	* As a girl (in 1918), Ying-Ying is privileged. How do we know?
+	* What does "the burning of the Five Evils" mean? What is really happening?
+	* The weather is hot the day of the Moon Festival. What do you make of the expression,
+		"feel my arm, steamed soft clear to the bone."
+	* Who is the Moon Lady and what does she offer?
+	* What does Amah's remark about wishes say about women in Chinese society?
+	* What is funny about the names of Ying-Ying's step-sisters?
+	* How does Ying-Ying fool her step-sisters with the "mooncake shaped like a rabbit"?
+	* According to Ying-Ying's mom, how should a girl "chase" a dragonfly?
+	* What does Ying-ying think about her shadow?
+	* What does this phrase suggest about Ying-Ying's family, "my father's concubines"?
+	* How does Ying-Ying think of Amah?
+	* What does " The boat looked like a floating teahouse" remind you of here in CDMX?
+	* Again, what does the phrase, "we saw poor-looking people" say about the status of Ying-Ying's family?
+	* What is happening with the bird with a hoop on its neck?
+	* What do you think about the contents of the soup being made?
+	* What happens to Ying-Ying's beautiful new clothes? How does she "fix" it?
+	* According to Amah, what will be the punishment for destroying the new clothes?
+	* What happens to Ying-Ying as she ponders the Moon Lady in her underwear?
+	* What is the terrible result of going overboard?
+	* In the stage production, what is the penance of the Moon Lady? What doe you make of the tale?
+	* What do you make of this: "For woman is yin, the darkness within, where untempered passions lie. And man is yang, 
+	  bright truth lighting our minds."
+	* Is a wish to the Moon Lady free?
+	* What is shocking to Ying-Ying about the true nature of the Moon Lady?
+	* What is Ying-Ying's secret wish? What do you make of it?
+
+
+--- Rules of the Game: Waverly Jong (Ch 5)
+Waverly Jong, the narrator of this section, explains that she was six years old when her mother taught her "the art of invisible strength," a strategy for winning arguments and gaining respect from others in games. Waverly and her two brothers live on Waverly Place in San Francisco's Chinatown. The children delight in the sights, sounds, and smells of Chinatown, the sweetness of the pasty red beans, the pungent smell of the herbs doled out by old Li, and the sight of the blood-slippery fish that the butcher guts with one deft slice.
+
+Waverly's brother Vincent received a chess set at the Baptist Church Christmas party. Waverly took to the game immediately, delighting in its strategy. After her brothers lose interest in the game, Waverly learns complex plays from Lau Po, an old man in the park: She begins to win local tournaments. By her ninth birthday, Waverly is a national chess champion. Her fame spreads; even Life magazine runs an article on her meteoric rise. Waverly is excused from her chores, but there is one task she cannot escape: accompanying her mother to market on Saturdays. Mrs. Jong delights in walking down the busy street, boasting that Waverly is her daughter. One day, mortified by what she perceives as exploitation, Waverly argues with her mother and dashes off. For two hours, she huddles on an upturned plastic pail in an alley. Finally, she slowly walks home.
+
+Taking their lead from Mrs. Jong, the entire family ignores Waverly, so she trudges to her darkened room and lies down on her bed. In her mind, she sees a chess board. Her opponent consists of two angry black slits, marching implacably across the chessboard and sending her white pieces fleeing for cover. As the black pieces get closer, Waverly feels herself getting lighter. She rises above the board and floats over houses. Pushed by the wind, she ascends into the night sky, alone. Waverly closes her eyes and thinks about her next move.
+
+	
+Qs
+	* Where does Waverly Jong grow up? How would describe the circumstances of her family?
+	* Why does the neighborhood feel warm and exciting to Waverly?
+	* What do you think of the fish market?
+	* The neighborhood is a Chinese barrio. How do we know>
+	* What is funny about Waverly's American versus her Chinese name?
+	* How does Waverly's mother see American culture?
+	* Why are children smarter than adults think when it comes to indoctrination?
+	* What is disingenuous about Waverly's mom responses to the chess set at home and at church?
+	* What is Waverly's mom's take on rules?
+	* What is the power in the game of chess?
+	* What do you make of the names of Lau Po's chess moves?
+	* How does Waverly get her mom to agree to tournament play?
+	* What is the result of Waverly's chore routines as a result of winning How do her brothers feel?
+	* Waverly is no doubt a master player and becomes a national champion. What does Bobby Fischer say about this?
+	* Waverly confronts her mother about showing off. What happens?
 
 
 --- "The Voice from the Wall: Lena St. Clair" (Chapter 6)
