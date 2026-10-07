@@ -53,11 +53,6 @@ Third Section Preamble: American Translation
 NB. Marron's modified APA format applies (see Class Materials in Teams). Unless noted, homework for the remainder of the course may be uploaded to Teams in .pdf format.
 
 
---- Task 1
-SAVE
-Use Google Scholar to find the following text, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper (published by O'Reilly). Search the document for the word. "translation" (it occurs 43 times in the text). Briefly scan the information related to each appearance of the word "translation."
-
-Briefly explain why the Natural Language Toolkit might be helpful to you.
 
 ###############################################################
 
@@ -106,6 +101,9 @@ PART II
 Why APIs?
 ----------
 	* Access is survival
+	* Complex queries
+	* Builds!
+
 
 Accessing AI agents through an API is superior when you need to automate background workflows, pass structured data directly into existing software systems, or enforce precise parameter control at scale. Conversely, a chat interface is better suited for ad-hoc tasks, interactive brainstorming, and fast human-in-the-loop experimentation where writing code is unnecessary.
 
@@ -114,8 +112,6 @@ Here are the primary advantages, grouped by capability:
 
 ## 1. Advanced Programmatic Control
 	* Dynamic Prompt Engineering: You can use code to programmatically inject variables, system instructions, and context into a prompt template dynamically based on real-time user data or external databases.
-
-	* Structured Input/Output: APIs allow you to strictly enforce data schemas. You can use tools like JSON Schema or function calling to ensure the AI returns data in a structured format (like JSON), which can be parsed directly by other software without regex hacking.
 
 	* Separation of Concerns: APIs separate the system instructions (which define behavior, safety guardrails, and role) from the user input, preventing users from easily bypassing instructions via prompt injection.
 
@@ -136,10 +132,7 @@ Here are the primary advantages, grouped by capability:
 ## 4. Integration and Automation (M2M)
 	* Chain of Thought & Agents: APIs enable you to build complex agentic workflows where the output of one model or query automatically forms the prompt for the next query (e.g., LangChain or AutoGen frameworks).
 
-	* Retrieval-Augmented Generation (RAG): You can connect your prompts directly to vector databases, internal APIs, or search engines, allowing the model to answer sophisticated queries using proprietary or live data.
-
 ## 5. Analytics, Monitoring, and Security
-	* Cost and Token Tracking: APIs provide precise data on prompt and completion token usage, allowing you to optimize prompts specifically to reduce latency and costs.
 
 	* Enterprise Security: API data usage typically comes with stricter privacy policies (e.g., zero data retention for training), ensuring that proprietary business logic or sensitive query data remains secure.
 
@@ -224,72 +217,8 @@ AI thru an API
 
 
 
-SAVE
-------------
-** Command line Linux, Winows, Mac/OS
-	Go thru "API_Installations_Windows-Basics.py"
-
-SAVE
-------------
-	Intro to NLTK
 
 
-** Go thru METEOR via HW Task 2
-	Gemini_APITranslation_text-files.py
-	Metrics_METEOR_NLTK-pkg.py
-	
-METEOR (Metric for Evaluation of Translation with Explicit ORdering)
-an automated metric for machine translation and text generation, designed to align better with human judgment than BLEU (Bilingual Evaluation Understudy). It evaluates output by calculating a harmonic mean of precision and recall (weighing recall higher), incorporating stem-matching, synonymy, and a fragmentation penalty for word ordering. 
-
-Key features and details include:
-    High Correlation: It is known for having a higher correlation with human judgment than BLEU.
-    Linguistic Features: Instead of just exact word matches, METEOR uses stemming (e.g., "run" matches "running") and synonymy matching.
-    Scoring: Scores range from 0 to 1.0 (or 0–100%), with higher values indicating better quality.
-    Components: It calculates unigram matching based on three stages: exact match, stem match, and synonym match.
-    Word Order: A "fragmentation penalty" is applied to penalize outputs that have correct words but in the wrong order. 
-
-METEOR is widely used to evaluate translation, summary, and generation tasks, especially when looking for a more nuanced, semantic-based evaluation
-
-
-Annotated HW Task 2 ---
-	Use 
-		Gemini_APITranslation_text-files.py
-		Metrics_METEOR_NLTK-pkg.py
-
-*Step 1. Send the paragraph below to your favorite AI for translation.
-
-	Use Gemini_APITranslation_text-files.py
-		Create a .txt file on your desktop labeled, "Gemini_Doc-English_TBT.txt"
-		Place text to translate in Gemini_Doc-English_TBT.txt
-	Run the cell, "Translate content of .txt files" in Gemini_APITranslation_text-files.py
-	Obtain AI translation output in a .txt file
-		OUTPUT_FILE = "Gemini_Doc-Spanish_T.txt"
-	Rename the Gemini_Doc-Spanish_T.txt file as, "METEOR-Test.txt"
-
-*Step 2. Save the output (Spanish) translation as, "candidate". 
-
-	In METEOR-Test.txt, label the AI translation, "candidate"
-
-*Step 3. Edit the AI translation or write your own translation and save it as, "reference." 
-
-	In METEOR-Test.txt, copy the AI translation and modify/edit it
-	Label the edited translation, "reference"
-	
-*Step 4. Open the Python script, "Metrics_METEOR_NLTK-pkg.py" in Spyder and go to the last cell in the script: METEOR Score for My Work
-
-*Step 5. Insert your "reference" text and the AI "candidate" text in the appropriate places in the script
-
-	After pasting in each insertion, separate hard returns with a forward slash, "\" so that Python reads the text as one string
-	Be sure the text string starts and ends with a quotation mark (")
-
-*Step 6. In Line 117 and Line 118 of the script, change "english" to "spanish"
-
-*Step 7. Run the cell "METEOR Score for My Work" in Python and save a screenshot of the Spyder work environment showing the output.
-
-
-
-
-	
 "The Joy Luck Club" by Amy Tan 
 -----------
 
