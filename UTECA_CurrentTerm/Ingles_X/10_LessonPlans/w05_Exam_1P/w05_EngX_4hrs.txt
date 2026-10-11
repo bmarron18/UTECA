@@ -129,7 +129,7 @@ Here are the primary advantages, grouped by capability:
    		* Frequency & Presence Penalties: Prevent the model from repeating words or force it to introduce new topics.
    		* Max Tokens: Explicitly limit or expand response length.
 
-## 4. Integration and Automation (M2M)
+## 4. Integration and Automation
 	* Chain of Thought & Agents: APIs enable you to build complex agentic workflows where the output of one model or query automatically forms the prompt for the next query (e.g., LangChain or AutoGen frameworks).
 
 ## 5. Analytics, Monitoring, and Security
@@ -178,8 +178,7 @@ Developer messages (AI role play instructions; system instructions)
 	priority over a prompt in the input parameter.
 
 User messages (task instructions; input parameters)
-		Any text, image, or file inputs to the model that are used to generate a 
-		specific response.
+		Any text, image, or file inputs to the model that are used to generate a specific response.
 
 
 

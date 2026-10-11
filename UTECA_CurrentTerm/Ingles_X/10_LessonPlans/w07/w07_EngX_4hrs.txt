@@ -1,31 +1,30 @@
-							LESSON PLAN  (4 hrs)
+							LESSON PLAN  (4 hrs -40 min)
 
 Docente:		Bruce D. Marron
-Ciclo: 			26-3
+Ciclo: 			27-1
 Materia: 		Inglés X
-Curso:			IT1044
+Curso:			INT1044
 Licenciatura: 	Interpretación y Traducción
-Grupo:			10A
 
 
-Another class cut bc of FIFA!
-No class 24 June 2026
 
 
 #####################
-HW_06 [Due: 30 June 2026]
+HW_06 [Due: 27 Oct 2026][Due: 28 Oct 2026]
 
 --- Task 1
-Select one (1) of the Character Arc Prompts below. Flesh out the prompt in a paragraph or two in English. You will be required to read your piece for the class.
+Take an incident from your life in high school and write a a very short fictional account. That is, use the incident as the basis for a very short vignette of creative writing. The vignette should be about a paragraph written in English.
 
-1. A character lies — convincingly — for the first time in their life. 
-2. The protagonist meets someone from their past — but pretends not to recognize them.
-3. A minor decision reveals a major character flaw. 
-4. A character confesses to the wrong person. 
-5. Someone gets exactly what they wanted — and immediately regrets it. 
 
 --- Task 2
-Begin working on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+Read the highlighted sections in both excerpts from the Brundtland Report and answer the following questions:
+	1. It has been nearly 40 years since the Brundtland report was published. Have the recommendations of the report been realized? Is the world now on a path to sustainability?
+
+	2. Read between the lines. What is the role of economic activity in relation to sustainability? What is the role of religion and cosmology in relation to sustainability?
+
+	3.  Imagine you are the emperor/emperess of the world. What you say goes. What would you do to create a world where "the ability to meet the needs of the present generation do not compromise the ability of future generations to meet their own needs?"
+
+
 
 --- Task 3
 Read the Fourth Section Preamble, Chapter 13, and Chapter 14 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
@@ -35,6 +34,21 @@ Fourth Section Preamble: Queen Mother of the Western Skies
 	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+
+SAVE
+--- Task 1
+Select one (1) of the Character Arc Prompts below. Flesh out the prompt in a paragraph or two in English. You will be required to read your piece for the class.
+
+1. A character lies — convincingly — for the first time in their life. 
+2. The protagonist meets someone from their past — but pretends not to recognize them.
+3. A minor decision reveals a major character flaw. 
+4. A character confesses to the wrong person. 
+5. Someone gets exactly what they wanted — and immediately regrets it. 
+
+SAVE
+--- Task 2
+Begin working on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
 
 ###############################################################
 
@@ -64,38 +78,88 @@ This is used to point out that someone knows the situation quite well, yet says 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+Finish AI
 -------------
-AI
-
-
-https://www.nytimes.com/2026/02/18/opinion/ai-software.html
-	vibe coding
-
-
-https://www.toolsforhumanity.com/es-es
-....a World ID based on your iris scan (to detect/confirm human status), direct access to other humans, access to World Coin (Ethereum bitcoin) in order to send you a "basic allowance" as a human, and thus the preparations to make you comfortable as AI takes over and makes you obsolete.
-
-
-Humanity's Last Exam (Nature)
-
-
-China's Translation AI mask (NY Times)
-https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html
-
-It has two parts: a mask that covers her mouth, and a speaker that hangs around her neck. Ms. Zheng speaks Chinese into the mask, which also muffles her voice. Then, a translation comes out of the speaker. The roughly $375 device, called Native Language Star, draws on speech and language models developed by several Chinese technology firms, according to the company, based in Shenzhen, that makes the device.
-
-
-
-------------
-Example runs
-		OpenAI_API-GeneralQuery.py
-		Metrics_METEOR_NLTK-pkg.py
 
 
 
 
+Sustainability
+-------------
+Lecture_01
+
+
+
+
+
+Reminder of Strunk and White’s. “Elements of Style”
+----------------			
+	V	AN APPROACH TO STYLE (With a List of Reminders) (p 62)
+		(Read all of the intro on style)
+		
+
+
+Creative Writing
 --------------
+	*	Vignettes
+
+	*	Rhetorical Devices
+	https://www.merriam-webster.com/grammar/rhetorical-devices-list-examples
+
+
+	* Creative Writing: Tips from the Masters
+	https://www.writingclasses.com/toolbox/tips-masters/kurt-vonnegut-8-basics-of-creative-writing
+
+Andrew Motion: 10 Techniques to Spark the Writing
+Annie Proulx: 5 Techniques for Good Craftsmanship
+Billy Wilder: 10 Screenwriting Tips
+Corita Kent: Ten Rules for Students and Teachers
+Edgar Allan Poe: 5 Essentials for the Betterment of a Story
+Elmore Leonard: 10 Rules for Good Writing
+George Orwell: 6 Questions/6 Rules
+Henry Miller: 10 Writing Tips
+Jack Kerouac: 30 Cool Tips
+Joyce Carol Oates: 10 Writing Tips
+Kurt Vonnegut: 8 Basics of Creative Writing
+Margaret Atwood: 10 Ideas for Writers
+Michael Moorcock: 10 Tips for Good Storytelling
+Neil Gaiman: 8 Good Writing Practices
+P.D. James: 5 Bits of Writing Advice
+Rejection: 3 Methods for Coping
+Ronald Knox: 10 Commandments of Detective Fiction
+Strunk & White: 11 Composition Principles
+Tracy Kidder and Richard Todd: 10 Writing Insights
+Zadie Smith: 10 Good Writing Habits
+
+
+Kurt Vonnegut:  8 Basics of Creative Writing
+--------------------------
+Kurt Vonnegut created some of the most outrageously memorable novels of our time, such as Cat's Cradle, Breakfast Of Champions, and Slaughterhouse Five. His work is a mesh of contradictions: both science fiction and literary, dark and funny, classic and counter-culture, warm-blooded and very cool. And it's all completely unique.
+
+With his customary wisdom and wit, Vonnegut put forth 8 basics of what he calls Creative Writing 101:
+    *Use the time of a total stranger in such a way that he or she will not feel the time was 
+    wasted.
+
+    *Give the reader at least one character he or she can root for.
+
+    *Every character should want something, even if it is only a glass of water.
+
+    *Every sentence must do one of two things—reveal character or advance the action.
+
+    *Start as close to the end as possible.
+
+    * Be a sadist. No matter how sweet and innocent your leading characters, make awful things happen to them—in order that the reader may see what they are made of.	
+
+    *Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia.
+
+    *Give your readers as much information as possible as soon as possible. To heck with suspense. Readers should have such complete understanding of what is going on, where and why, that they could finish the story themselves, should cockroaches eat the last few pages.
+
+The greatest American short story writer of my generation was Flannery O'Connor (1925-1964). She broke practically every one of my rules but the first. Great writers tend to do that. 
+
+
+
 Kurt Vonnegut
+--------------
 Read excerpt "Slaughterhouse 5"
 	"As I've said.." bottom p 19 , thru p 20 "... and calendars."
 	"I looked through the Gideon Bible..." p 21 thru p 22
@@ -103,34 +167,10 @@ Read excerpt "Slaughterhouse 5"
 
 
 
------------
-** Creative Writing
-Tips from the Masters
-https://www.writingclasses.com/toolbox/tips-masters
-
-Andrew Motion: 10 Techniques to Spark the Writing
-Annie Proulx: 5 Techniques for Good Craftsmanship
-Billy Wilder: 10 Screenwriting Tips
-Corita Kent: Ten Rules for Students and Teachers
-*Edgar Allan Poe: 5 Essentials for the Betterment of a Story
-Elmore Leonard: 10 Rules for Good Writing
-*George Orwell: 6 Questions/6 Rules
-*Henry Miller: 10 Writing Tips
-*Jack Kerouac: 30 Cool Tips
-Joyce Carol Oates: 10 Writing Tipshttps://www.toolsforhumanity.com/es-es
-*Kurt Vonnegut: 8 Basics of Creative Writing
-Margaret Atwood: 10 Ideas for Writers
-Michael Moorcock: 10 Tips for Good Storytelling
-Neil Gaiman: 8 Good Writing Practices
-*P.D. James: 5 Bits of Writing Advice
-Rejection: 3 Methods for Coping
-Ronald Knox: 10 Commandments of Detective Fiction
-*Strunk & White: 11 Composition Principles
-Tracy Kidder and Richard Todd: 10 Writing Insights
-Zadie Smith: 10 Good Writing Habits
 
 
 
+SAVE
 -- Edgar Allan Poe: 5 Essentials for the Betterment of a Story
 Edgar Allan Poe* penned immortal poems, such as “The Raven" and “Annabel Lee," and unforgettable tales of psychological horror, such as “The Tell-Tale Heart," “The Masque of Red Death," The Cask of Amontillado," and “The Fall of the House of Usher." He was also a prominent literary critic and essayist, as well as the inventor of the detective story.
 
@@ -148,13 +188,13 @@ In a recently-found treatise, he set down the following advice for bettering a s
 *Poe didn't really compose this advice, but, as he was fond of a good hoax, we hope he would be pleased by this affectionate charade. 
 
 
-
+SAVE
 -----------
 Student volunteers for reading their work 
 (next time it's obligatory)
 
 
-
+SAVE
 -------------
 Character Arc Prompts
 https://www.finaldraft.com/blog/75-creative-writing-prompts-and-exercises-for-screenwriters
@@ -165,14 +205,14 @@ https://www.finaldraft.com/blog/75-creative-writing-prompts-and-exercises-for-sc
 4. A character confesses to the wrong person. 
 5. Someone gets exactly what they wanted — and immediately regrets it. 
 
-
+SAVE
 ---------
 "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf"
 
 
-PART II 
+PART II
+"The Joy Luck Club" by Amy Tan
 --------------
-** "The Joy Luck Club" by Amy Tan ---------------------------------------
 352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
 
 

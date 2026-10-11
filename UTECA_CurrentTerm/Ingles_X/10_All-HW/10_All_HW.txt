@@ -149,27 +149,53 @@ Study Guide Exam 2P 	[DO NOT turn in as homework]
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
 
 
-**HW_06 [Due: 30 June 2026]
+***HW_06 [Due: 20 Oct 2026][Due: 21 Oct 2026]
 --- Task 1
-Select one (1) of the Character Arc Prompts below. Flesh out the prompt in a paragraph or two in English. You will be required to read your piece for the class.
+Follow the detailed instructions in PART IV of the document, "API_Installations-Activations-Preparations.txt". Basically, this involves the following sub-tasks:
 
-1. A character lies — convincingly — for the first time in their life. 
-2. The protagonist meets someone from their past — but pretends not to recognize them.
-3. A minor decision reveals a major character flaw. 
-4. A character confesses to the wrong person. 
-5. Someone gets exactly what they wanted — and immediately regrets it. 
+	*  Creating a Python virtual environment in your computer
+	*  Installing a variety of packages into the virtual environment including:
+		spyder-kernels 	<== tools to allow Spyder access to the virtual environment
+		google-genai 	<== most recent SDK for Google Gemini models
+		openai			<== most recent SDK for OpenAI models
+		jiter			<== A standalone version of the JSON parser
+		nltk 			<== The Natural Language Tool Kit
+
+In your homework please tell me (honestly) how far you got with these sub-tasks.
 
 --- Task 2
-Begin working on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+Take the following short excerpt from "The Joy Luck Club" (Chapter 10 Rice Husband: Lena St. Clair) and use and AI translator to translate the paragraph into Spanish. You then will use METEOR to evaluate the AI translation.
+
+-- excerpt, "The Joy Luck Club" to translate and evaluate 
+And just after my father died last year, she said she knew this would happen. Because a philodendron plant my father had given her had withered and died, despite the fact that she watered it faithfully. She said the plant had damaged its roots and no water could get to it. The autopsy report she later received showed my father had had ninety-percent blockage of the arteries before he died of a heart attack at the age of seventy-four. My father was not Chinese like my mother, but English-Irish American, who enjoyed his five slices of bacon and three eggs sunnyside up every morning.
+
+Step 1. 
+	Send the paragraph below to your favorite AI for translation. 
+Step 2. 
+	Save the translation as, "candidate". 
+Step 3. 
+	Edit the AI translation or write your own translation and save it as, "reference." 
+Step 4. 
+	Open the Python script, "Metrics_METEOR_NLTK-pkg.py" in Spyder and go to the last cell in the script: METEOR Score for My Work
+Step 5. 
+	Insert your "reference" text and the AI "candidate" text in the appropriate places in the script
+Step 6. 
+	In Line 117 and Line 118 of the script, change "english" to "spanish"
+Step 7. 
+	Run the cell in Python and save a screenshot of the Spyder work environment showing the output.
+
+In your homework report your METEOR Score (or how far you got with this task)
 
 --- Task 3
-Read the Fourth Section Preamble, Chapter 13, and Chapter 14 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+Read the Third Section Preamble, Chapter 11, and Chapter 12 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 
-Fourth Section Preamble: Queen Mother of the Western Skies
-	Ch. 13	o Magpies: An-Mei Hsu
-	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
+Third Section Preamble: American Translation
+	Ch. 11	o Without Wood: Rose Hsu Jordan
+	Ch. 12	o Best Quality: Jing-Mei Woo
 
-NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+NB. Marron's modified APA format applies (see Class Materials in Teams). Unless noted, homework for the remainder of the course may be uploaded to Teams in .pdf format. 
+
+
 
 
 *** HW_05 [Due: 13 Oct 2026] [Due: 14 Oct 2026]
