@@ -11,7 +11,7 @@ PART I
 Setup Instructions for using Google Gemini AI Models
 
 	Latest Gemini AI Models 
-				==>  gemini-3.7-flash
+				==>  gemini-3.8-flash
 				==>  gemini-3.5-transcribe-live 
 				==>  gemini-3.5-transcribe
 				==>  gemini-3.5-live-translate-preview		

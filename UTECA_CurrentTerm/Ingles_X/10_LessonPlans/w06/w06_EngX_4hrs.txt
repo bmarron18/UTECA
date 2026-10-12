@@ -47,7 +47,7 @@ Step 6.
 Step 7. 
 	Run the cell in Python and save a screenshot of the Spyder work environment showing the output.
 
-In your homework report your METEOR Score (or how far you got with this task)
+In your homework report your METEOR Score or how far you got with this task.
 
 
 --- Task 3
@@ -88,7 +88,7 @@ From the "Romance of the Three Kingdoms" (《三国演义》), this means that e
 
 -------------
 ** Review Exam 1P
-	watch "we"
+	
 
 
 Command line Linux, Winows, Mac/OS
@@ -116,7 +116,7 @@ Metrics_METEOR_NLTK-pkg.py
 METEOR (Metric for Evaluation of Translation with Explicit ORdering)
 an automated metric for machine translation and text generation, designed to align better with human judgment than BLEU (Bilingual Evaluation Understudy). It evaluates output by calculating a harmonic mean of precision and recall (weighing recall higher), incorporating stem-matching, synonymy, and a fragmentation penalty for word ordering. 
 
-Key features and details include:
+Key features:
     *High Correlation: It is known for having a higher correlation with human judgment than BLEU.
 
     *Linguistic Features: Instead of just exact word matches, METEOR uses stemming (e.g., "run" matches "running") and synonymy matching.
@@ -127,7 +127,7 @@ Key features and details include:
 
     *Word Order: A "fragmentation penalty" is applied to penalize outputs that have correct words but in the wrong order. 
 
-METEOR is widely used to evaluate translation, summary, and generation tasks, especially when looking for a more nuanced, semantic-based evaluation
+METEOR is widely used to evaluate translation, summary, and generation tasks, especially when looking for a more nuanced, semantic-based evaluation.
 
 
 
