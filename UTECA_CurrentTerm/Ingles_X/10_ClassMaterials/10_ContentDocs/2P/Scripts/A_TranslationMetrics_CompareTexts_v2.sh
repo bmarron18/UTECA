@@ -1,8 +1,10 @@
 #!/usr/bin/env bash
 # ------------------------------------------------------------------
-# compare_texts_v4.sh   (built for comparing two translations)
+# A_Metrics_CompareTexts_v6.sh   (built for comparing two translations)
+# -------------------------------------------------------------------
+#   Input : exactly two .txt files in folder on Desktop
+#  ~/Desktop/compare_files
 #
-#   Input : exactly two .txt files in  ~/Desktop/compare_files
 #   Output: in ~/Desktop/comparison_made, three files sharing one name:
 #             comparison_<A>_vs_<B>_<time>.txt              the report
 #             comparison_<A>_vs_<B>_<time>_differences.tsv  the difference
@@ -13,6 +15,10 @@
 #             comparison_<A>_vs_<B>_<time>_marked.html      the same, in
 #                 color: open it in a web browser (A only = red
 #                 strike-through, B only = green)
+#
+# ======== To run:======================
+# chmod +x A_Metrics_CompareTexts_v6.sh && ./A_Metrics_CompareTexts_v6.sh
+#
 #
 # Report sections:
 #   1. Summary
@@ -44,8 +50,6 @@
 #   timeout, sort. perl is needed only for NORMALIZE=1.
 #   Install gawk with: sudo apt install gawk
 #
-# ======== To run:======================
-# chmod +x compare_texts_v6.sh && ./compare_texts_v6.sh
 #
 # ------------------------------------------------------------------
 set -euo pipefail

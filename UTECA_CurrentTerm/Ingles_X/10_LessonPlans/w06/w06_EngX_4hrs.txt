@@ -14,9 +14,8 @@ HW_06 [Due: 20 Oct 2026][Due: 21 Oct 2026]
 
 --- Task 1
 Follow the detailed instructions in PART IV of the document, "API_Installations-Activations-Preparations.txt". Basically, this involves the following sub-tasks:
-
-	*  Creating a Python virtual environment in your computer
-	*  Installing a variety of packages into the virtual environment including:
+	*  Create a Python virtual environment in your computer
+	*  Install a variety of packages into the virtual environment including:
 		spyder-kernels 	<== tools to allow Spyder access to the virtual environment
 		google-genai 	<== most recent SDK for Google Gemini models
 		openai			<== most recent SDK for OpenAI models
@@ -27,25 +26,10 @@ In your homework please tell me (honestly) how far you got with these sub-tasks.
 
 
 --- Task 2
-Take the following short excerpt from "The Joy Luck Club" (Chapter 10 Rice Husband: Lena St. Clair) and use and AI translator to translate the paragraph into Spanish. You then will use METEOR to evaluate the AI translation.
+Take the following short excerpt from "The Joy Luck Club" (Chapter 10) and use an AI translator to translate the paragraph into Spanish. Use METEOR to evaluate the AI translation based on YOUR translation as the reference (i.e., your translation is the correct one).
 
 -- excerpt, "The Joy Luck Club" to translate and evaluate 
-And just after my father died last year, she said she knew this would happen. Because a philodendron plant my father had given her had withered and died, despite the fact that she watered it faithfully. She said the plant had damaged its roots and no water could get to it. The autopsy report she later received showed my father had had ninety-percent blockage of the arteries before he died of a heart attack at the age of seventy-four. My father was not Chinese like my mother, but English-Irish American, who enjoyed his five slices of bacon and three eggs sunnyside up every morning.
-
-Step 1. 
-	Send the paragraph below to your favorite AI for translation. 
-Step 2. 
-	Save the translation as, "candidate". 
-Step 3. 
-	Edit the AI translation or write your own translation and save it as, "reference." 
-Step 4. 
-	Open the Python script, "Metrics_METEOR_NLTK-pkg.py" in Spyder and go to the last cell in the script: METEOR Score for My Work
-Step 5. 
-	Insert your "reference" text and the AI "candidate" text in the appropriate places in the script
-Step 6. 
-	In Line 117 and Line 118 of the script, change "english" to "spanish"
-Step 7. 
-	Run the cell in Python and save a screenshot of the Spyder work environment showing the output.
+"And just after my father died last year, she said she knew this would happen. Because a philodendron plant my father had given her had withered and died, despite the fact that she watered it faithfully. She said the plant had damaged its roots and no water could get to it. The autopsy report she later received showed my father had had ninety-percent blockage of the arteries before he died of a heart attack at the age of seventy-four. My father was not Chinese like my mother, but English-Irish American, who enjoyed his five slices of bacon and three eggs sunnyside up every morning."
 
 In your homework report your METEOR Score or how far you got with this task.
 
@@ -103,16 +87,9 @@ Final Notes on Installations / Preparations
 			"API_Installations-Activations-Preparations.txt"
 
 
-Translations and NLTK
-------------
-** Go thru HW Task 2
-A_Translate_MultipleDocs_Google-gemini-sdk_v2.0.py
-	/home/bruce-vdb/Desktop/Marron_Projects/AI/AI_Queries_Chats+APIs/Google/Scripts_Google/A_Scripts/Functionals/Translation/NewestScripts
 
-
-Metrics_METEOR_NLTK-pkg.py
-	/home/bruce-vdb/Desktop/UTECA_Final/UTECA/UTECA_MyCurr/UTECA_MarronCurriculum/TranslationAPIs/Translation_Metrics/Metric_METEOR/
-	
+METEOR in nltk
+----------------
 METEOR (Metric for Evaluation of Translation with Explicit ORdering)
 an automated metric for machine translation and text generation, designed to align better with human judgment than BLEU (Bilingual Evaluation Understudy). It evaluates output by calculating a harmonic mean of precision and recall (weighing recall higher), incorporating stem-matching, synonymy, and a fragmentation penalty for word ordering. 
 
@@ -129,9 +106,25 @@ Key features:
 
 METEOR is widely used to evaluate translation, summary, and generation tasks, especially when looking for a more nuanced, semantic-based evaluation.
 
+“Meteor: An Automatic Metric for MT Evaluation with HighLevels of Correlation with Human Judgments” by Alon Lavie and Abhaya Agarwal, in Proceedings of ACL. https://www.cs.cmu.edu/~alavie/METEOR/pdf/Lavie-Agarwal-2007-METEOR.pdf
 
 
-		
+
+Scripts
+----------------
+
+A_Template_ResearchQuery_openai-sdk_v2.0.py
+A_Translate_MultipleDocs_gemini-sdk_v2.0.py
+A_Translate_MultipleDocs_openai-sdk_v2.0.py
+A_TranslationMetrics_CompareTexts_v2.sh
+A_TranslationMetrics_METEOR_nltk_v2.0.py
+
+
+
+
+
+
+
 PART II
 
 "The Joy Luck Club" by Amy Tan
@@ -139,21 +132,63 @@ PART II
 352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
 
 
-**%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
-1. Mother-Daughter Relationships
-2. Cultural Identity and Assimilation
-3. Generational Conflict
-4. Self-Discovery and Empowerment
-5. Family Legacy and Loyalty
-6. Communication and Misunderstanding
+%%%%%%%%%%	Mothers / Daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Mother					Daughter
 --------				---------
 Suyuan Woo			—> Jing-mei "June" Woo
 An-mei Hsu			—>	Rose Hsu Jordan
 Lindo Jong			—>	Waverly Jong
 Ying-ying St. Clair		—>	Lena St. Clair
+
+
+%%%%%%%%%%%%	Preambles and Chapters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+First Section Preamble: Feathers From a Thousand LI Away
+	Ch. 1	o The Joy Luck Club: Jing-Mei Woo
+	Ch. 2	o Scar: An-Mei Hsu
+	Ch. 3	o The Red Candle: Lindo Jong
+	Ch. 4	o The Moon Lady: Ying-Ying St. Clair
+Second Section Preamble: The Twenty-Six Malignant Gates
+	Ch. 5	o Rules of the Game: Waverly Jong
+	Ch. 6	o The Voice from the Wall: Lena St. Clair
+	Ch. 7	o Half and Half: Rose Hsu Jordan
+	Ch. 8	o Two Kinds: Jing-Mei Woo
+Third Section Preamble: American Translation
+	Ch. 9	o Rice Husband: Lena St. Clair
+	Ch. 10	o Four Directions: Waverly Jong
+	Ch. 11	o Without Wood: Rose Hsu Jordan
+	Ch. 12	o Best Quality: Jing-Mei Woo
+Fourth Section Preamble: Queen Mother of the Western Skies
+	Ch. 13	o Magpies: An-Mei Hsu
+	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
+	Ch. 15	o Double face: Lindo Jong
+	Ch. 16	o A Pair of Tickets: Jing-Mei Woo
+
+
+
+--- Rules of the Game: Waverly Jong (Ch 5)
+Waverly Jong, the narrator of this section, explains that she was six years old when her mother taught her "the art of invisible strength," a strategy for winning arguments and gaining respect from others in games. Waverly and her two brothers live on Waverly Place in San Francisco's Chinatown. The children delight in the sights, sounds, and smells of Chinatown, the sweetness of the pasty red beans, the pungent smell of the herbs doled out by old Li, and the sight of the blood-slippery fish that the butcher guts with one deft slice.
+
+Waverly's brother Vincent received a chess set at the Baptist Church Christmas party. Waverly took to the game immediately, delighting in its strategy. After her brothers lose interest in the game, Waverly learns complex plays from Lau Po, an old man in the park: She begins to win local tournaments. By her ninth birthday, Waverly is a national chess champion. Her fame spreads; even Life magazine runs an article on her meteoric rise. Waverly is excused from her chores, but there is one task she cannot escape: accompanying her mother to market on Saturdays. Mrs. Jong delights in walking down the busy street, boasting that Waverly is her daughter. One day, mortified by what she perceives as exploitation, Waverly argues with her mother and dashes off. For two hours, she huddles on an upturned plastic pail in an alley. Finally, she slowly walks home.
+
+Taking their lead from Mrs. Jong, the entire family ignores Waverly, so she trudges to her darkened room and lies down on her bed. In her mind, she sees a chess board. Her opponent consists of two angry black slits, marching implacably across the chessboard and sending her white pieces fleeing for cover. As the black pieces get closer, Waverly feels herself getting lighter. She rises above the board and floats over houses. Pushed by the wind, she ascends into the night sky, alone. Waverly closes her eyes and thinks about her next move.
+
+Qs
+	* Where does Waverly Jong grow up? How would describe the circumstances of her family?
+	* Why does the neighborhood feel warm and exciting to Waverly?
+	* What do you think of the fish market?
+	* The neighborhood is a Chinese barrio. How do we know>
+	* What is funny about Waverly's American versus her Chinese name?
+	* How does Waverly's mother see American culture?
+	* Why are children smarter than adults think when it comes to indoctrination?
+	* What is disingenuous about Waverly's mom responses to the chess set at home and at church?
+	* What is Waverly's mom's take on rules?
+	* What is the power in the game of chess?
+	* What do you make of the names of Lau Po's chess moves?
+	* How does Waverly get her mom to agree to tournament play?
+	* What is the result of Waverly's chore routines as a result of winning How do her brothers feel?
+	* Waverly is no doubt a master player and becomes a national champion. What does Bobby Fischer say about this?
+	* Waverly confronts her mother about showing off. What happens?
 
 
 

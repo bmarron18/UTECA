@@ -2,8 +2,20 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Sep 17 11:35:19 2025
-Updated 23 Jun 2026
+Updated 13 Oct 2026
 @author: bmarron
+
+
+UPDATE AND LIST INSTALLED PACKAGES
+-------------
+<<< bash
+    cd ~/spyder-6/envs && pip list
+    
+    source ./ai-apis/bin/activate &&
+    python3 -m pip install --upgrade pip &&
+    pip install --upgrade nltk && deactivate
+>>>
+
 """
 
 # %%
@@ -11,12 +23,20 @@ Updated 23 Jun 2026
 '''
 METEOR Metric using the Natural Language Tool Kit (ntlk)
 
+    * Run Cell_01 and Cell_02 to setup and test
+    * Run other cells as needed
+
 '''
 
 # %%
+'''
+Cell_01
+    METEOR Score: Setup of nltk
+'''
 
     # after import NLTK package, need to download files
     # nltk.download()  <==  opens a separate window to select items
+    # need only 'punkt_tab' and 'wordnet'
 
     
 import nltk
@@ -28,7 +48,8 @@ nltk.download('wordnet')
 # %%
 
 '''
-METEOR Score: Test Run
+Cell_02
+    METEOR Score: Test Run
 '''
 from nltk.tokenize import word_tokenize
 from nltk.translate.meteor_score import single_meteor_score
@@ -58,7 +79,8 @@ print(f"METEOR Score: {score:.4f}")
 # %%
 
 '''
-METEOR Score Example
+Cell_03
+    METEOR Score: Example of Poor Translation Quality
 '''
 from nltk.tokenize import word_tokenize
 from nltk.translate.meteor_score import single_meteor_score
@@ -96,41 +118,12 @@ score = single_meteor_score(ref, cand)
 print(f"METEOR Score: {score:.4f}")
 # METEOR Score: 0.5640
 
-# %%
-
-'''
-METEOR Score for My Work
-'''
-from nltk.tokenize import word_tokenize
-from nltk.translate.meteor_score import single_meteor_score
-
-
- 
-   # Define a reference text created by a human translator
-   # The quotes define a "string" in Python
-reference_text= "Copy your reference text here. Watch the quotes!."
-    
-    # Define the candidate text created by an AI translator
-    # The quotes define a "string" in Python
-candidate_text = "Copy the AI translation here. In quotes!!"
-
-    # change language as needed
-ref = word_tokenize(reference_text, "english")
-cand = word_tokenize(candidate_text, "english")
-
-
-# Calculate METEOR score 
-score = single_meteor_score(ref, cand)
-
-# Print the result 
-print(f"METEOR Score: {score:.4f}")
-
-
 
 # %%
 
 '''
-METEOR Score for My Work (HW Task 2)
+Cell_04
+    METEOR Score: HW Task 2
 '''
 from nltk.tokenize import word_tokenize
 from nltk.translate.meteor_score import single_meteor_score
@@ -177,4 +170,39 @@ score = single_meteor_score(ref, cand)
 # Print the result 
 print(f"METEOR Score: {score:.4f}")
 # METEOR Score: 0.9850
+
+
+# %%
+
+'''
+Cell_05
+    METEOR Score: My Work
+'''
+from nltk.tokenize import word_tokenize
+from nltk.translate.meteor_score import single_meteor_score
+
+
+ 
+   # Define a reference text created by a human translator
+   # The quotes define a "string" in Python
+reference_text= "Copy your reference text here. Watch the quotes!."
+    
+    # Define the candidate text created by an AI translator
+    # The quotes define a "string" in Python
+candidate_text = "Copy the AI translation here. In quotes!!"
+
+    # change language as needed!!!!
+ref = word_tokenize(reference_text, "english")
+cand = word_tokenize(candidate_text, "english")
+
+
+# Calculate METEOR score 
+score = single_meteor_score(ref, cand)
+
+# Print the result 
+print(f"METEOR Score: {score:.4f}")
+
+
+
+
 
