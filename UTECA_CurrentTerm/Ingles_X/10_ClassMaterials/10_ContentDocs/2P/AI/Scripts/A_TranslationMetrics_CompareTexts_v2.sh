@@ -17,7 +17,7 @@
 #                 strike-through, B only = green)
 #
 # ======== To run:======================
-# chmod +x A_Metrics_CompareTexts_v6.sh && ./A_Metrics_CompareTexts_v6.sh
+# chmod +x A_TranslationMetrics_CompareTexts_v2.sh && ./A_TranslationMetrics_CompareTexts_v2.sh
 #
 #
 # Report sections:

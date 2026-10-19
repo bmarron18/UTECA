@@ -17,7 +17,7 @@ Take an incident from your life in high school and write a a very short fictiona
 
 
 --- Task 2
-Read the highlighted sections in both excerpts from the Brundtland Report and answer the following questions:
+Read the highlighted sections (1-4, 11-15, 23, 24-30, 33, 40-43, 82, 101-109) in the excerpt from the Brundtland Report and answer the following questions:
 	1. It has been nearly 40 years since the Brundtland report was published. Have the recommendations of the report been realized? Is the world now on a path to sustainability?
 
 	2. Read between the lines. What is the role of economic activity in relation to sustainability? What is the role of religion and cosmology in relation to sustainability?
@@ -93,6 +93,7 @@ Lecture_01
 
 
 Reminder of Strunk and White’s. “Elements of Style”
+for creative writing
 ----------------			
 	V	AN APPROACH TO STYLE (With a List of Reminders) (p 62)
 		(Read all of the intro on style)
@@ -104,11 +105,11 @@ Creative Writing
 	*	Vignettes
 
 	*	Rhetorical Devices
-	https://www.merriam-webster.com/grammar/rhetorical-devices-list-examples
+https://www.merriam-webster.com/grammar/rhetorical-devices-list-examples
 
 
 	* Creative Writing: Tips from the Masters
-	https://www.writingclasses.com/toolbox/tips-masters/kurt-vonnegut-8-basics-of-creative-writing
+https://www.writingclasses.com/toolbox/tips-masters/kurt-vonnegut-8-basics-of-creative-writing
 
 Andrew Motion: 10 Techniques to Spark the Writing
 Annie Proulx: 5 Techniques for Good Craftsmanship
@@ -273,7 +274,6 @@ Ying-ying grew up a fearless, reckless girl amid great wealth. When her husband 
 Lena establishes her husband, Harold Livotny, in his own architectural firm, providing him with seed money and ideas. Eight years later, they are dividing the household expenses equally, although Harold now earns seven times more than Lena does. She is resentful and angry.
 
 
-SAVE (bc of FIFA no class)
 
 --- "The Voice from the Wall: Lena St. Clair" (Chapter 6)
 When she was a child, Lena St. Clair often wondered about a beggar whom her grandfather had sentenced to die in the worst possible way. She imagines all sorts of gruesome torture. Appalled by her interest in violence, her mother said that the way he died didn't matter. Lena thinks that it matters very much because knowing the worst that can happen to you can help you avoid it. The worst thing that happens to Lena is her mother's descent into madness.
@@ -450,7 +450,7 @@ At the end of the evening, Rich is sure that he has "passed the test," but Waver
 
 Her mother is kind and understanding, which puzzles Waverly and she bursts into tears. They talk and Waverly finally sees that her mother does indeed love her. She had only been waiting for Waverly to "let her in" to her world. Waverly and Rich postpone their wedding until October so that they can honeymoon in China in the cooler season. Waverly thinks it would be disastrous — yet wonderful — if her mother would go with them.
 
-Here, we see that this chapter picks up the conflict described in "Rules of the Game" — that is, Waverly's love/hate relationship with her mother. Waverly is now an adult. She is a highly successful tax attorney in a high-powered position. According to her friend Marlene, Waverly is so assertive that she does not even have a problem taking on the IRS. Nonetheless, all of that power dissolves when she has to deal with her mother. She becomes a child again in her mother's presence. Her mother seems all-powerful, and Waverly feels that she must continually prove her worth to her mother. She feels that her mother poisoned her first marriage — and, now, she will not get married again until she gets her mother's approval. She cannot even imagine eloping — even though it is her second marriage. Marlene is astonished that Waverly has difficulty telling her mother that she is getting married. Even Rich is amazed. "How long does it take to say, Mom, Dad, I'm getting married?" he asks jokingly. Because of Waverly's dependence, her mother still has the power to change Waverly's perception of reality.
+This chapter picks up the conflict described in "Rules of the Game" — that is, Waverly's love/hate relationship with her mother. Waverly is now an adult. She is a highly successful tax attorney in a high-powered position. According to her friend Marlene, Waverly is so assertive that she does not even have a problem taking on the IRS. Nonetheless, all of that power dissolves when she has to deal with her mother. She becomes a child again in her mother's presence. Her mother seems all-powerful, and Waverly feels that she must continually prove her worth to her mother. She feels that her mother poisoned her first marriage — and, now, she will not get married again until she gets her mother's approval. She cannot even imagine eloping — even though it is her second marriage. Marlene is astonished that Waverly has difficulty telling her mother that she is getting married. Even Rich is amazed. "How long does it take to say, Mom, Dad, I'm getting married?" he asks jokingly. Because of Waverly's dependence, her mother still has the power to change Waverly's perception of reality.
 
 Waverly adores Rich. He loves her unconditionally and makes her happy in every way. "I had never known love so pure," she says. Yet when she senses that her mother does not approve of Rich, her own opinion of him sours. Rich tumbles from being a sort of god to being an animal. "He had the look of a Dalmatian, panting, loyal, waiting to be petted," she says in disgust.
 
