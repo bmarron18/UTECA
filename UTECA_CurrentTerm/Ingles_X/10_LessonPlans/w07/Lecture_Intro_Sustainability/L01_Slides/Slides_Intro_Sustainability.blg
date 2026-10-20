@@ -1,0 +1,9 @@
+[0] Config.pm:329> INFO - This is Biber 2.22
+[0] Config.pm:332> INFO - Logfile is 'Slides_Intro_Sustainability.blg'
+[55] biber:342> INFO - === Tue Oct 20, 2026, 10:19:06
+[67] Biber.pm:421> INFO - Reading 'Slides_Intro_Sustainability.bcf'
+[107] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
+[116] bbl.pm:676> INFO - Writing 'Slides_Intro_Sustainability.bbl' with encoding 'UTF-8'
+[116] bbl.pm:779> INFO - Output to Slides_Intro_Sustainability.bbl
+[116] Biber.pm:132> WARN - The file 'Slides_Intro_Sustainability.bcf' does not contain any citations!
+[116] Biber.pm:134> INFO - WARNINGS: 1

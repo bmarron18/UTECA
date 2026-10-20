@@ -113,38 +113,24 @@ Read Chapters 1 through 3 of "Brave New World". We will officially launch this n
 HW 2P
 ########
 
-**HW_07 [Due: 07 July 2026]
+**HW_07 [Due: 27 Oct 2026][Due: 28 Oct 2026]
 --- Task 1
-Select one (1) of the Structure-Based Writing Exercises below. Flesh out the prompt in a couple of paragraphs in English. You will be required to read your piece for the class.
-
-Structure-Based Writing Exercises
-1. Build a scene that ends on a shocking cliffhanger, and then shift to a completely different scene within the story, leaving the audience on, well, a cliffhanger. 
-2. Create an opening to your story that misleads the viewer’s expectations. 
-3. Have an ally become an enemy — mid-conversation. 
-4. Have a well-intentioned gesture backfire badly. 
-5. Have a misunderstanding escalate quickly. 
-6. Have a confrontation flip when a secret is revealed.
+Take an incident from your life in high school and write a a very short fictional account. That is, use the incident as the basis for a very short vignette of creative writing. The vignette should be about a paragraph written in English.
 
 --- Task 2
-Read the final two chapters (Chapter 15, and Chapter 16) of "The Joy Luck Club." 
-	Ch. 15	o Double face: Lindo Jong
-	Ch. 16	o A Pair of Tickets: Jing-Mei Woo
+Read the highlighted sections (1-4, 11-15, 23, 24-30, 33, 40-43, 82, 101-109) in the excerpt from the Brundtland Report and answer the following questions:
+	1. It has been nearly 40 years since the Brundtland report was published. Have the recommendations of the report been realized? Is the world now on a path to sustainability?
+
+	2. Read between the lines. What is the role of economic activity in relation to sustainability? What is the role of religion and cosmology in relation to sustainability?
+
+	3.  Imagine you are the emperor/emperess of the world. What you say goes. What would you do to create a world where "the ability to meet the needs of the present generation do not compromise the ability of future generations to meet their own needs?"
 
 --- Task 3
-Complete the document, “A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club." This document will count 85% of your grade for the 2P exam. You will attach your review to the exam sheet. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+Read the Fourth Section Preamble, Chapter 13, and Chapter 14 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 
-
-Study Guide Exam 2P 	[DO NOT turn in as homework]
--------------------
-1. Be able to evaluate your experience with coding
-    * How would you evaluate or characterize the Python language?
-    * Did you find using the command-line for computer-based tasks helpful or burdensome?
-    * How far did you get in the sequence of homework tasks (Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google and OpenAI? Install the Natural Language Toolkit (NLTK)? Run a simple query using Gemini 2.5 Flash or GPT-5? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
-    * Give two reafsons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
-
-2. Be able to evaluate your experience with creative writing
-    * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
-    * Of the pieces you wrote for class which was your favorite? Explain why.
+Fourth Section Preamble: Queen Mother of the Western Skies
+	Ch. 13	o Magpies: An-Mei Hsu
+	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
 
@@ -169,21 +155,6 @@ Take the following short excerpt from "The Joy Luck Club" (Chapter 10 Rice Husba
 -- excerpt, "The Joy Luck Club" to translate and evaluate 
 And just after my father died last year, she said she knew this would happen. Because a philodendron plant my father had given her had withered and died, despite the fact that she watered it faithfully. She said the plant had damaged its roots and no water could get to it. The autopsy report she later received showed my father had had ninety-percent blockage of the arteries before he died of a heart attack at the age of seventy-four. My father was not Chinese like my mother, but English-Irish American, who enjoyed his five slices of bacon and three eggs sunnyside up every morning.
 
-Step 1. 
-	Send the paragraph below to your favorite AI for translation. 
-Step 2. 
-	Save the translation as, "candidate". 
-Step 3. 
-	Edit the AI translation or write your own translation and save it as, "reference." 
-Step 4. 
-	Open the Python script, "Metrics_METEOR_NLTK-pkg.py" in Spyder and go to the last cell in the script: METEOR Score for My Work
-Step 5. 
-	Insert your "reference" text and the AI "candidate" text in the appropriate places in the script
-Step 6. 
-	In Line 117 and Line 118 of the script, change "english" to "spanish"
-Step 7. 
-	Run the cell in Python and save a screenshot of the Spyder work environment showing the output.
-
 In your homework report your METEOR Score (or how far you got with this task)
 
 --- Task 3
@@ -194,8 +165,6 @@ Third Section Preamble: American Translation
 	Ch. 12	o Best Quality: Jing-Mei Woo
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Unless noted, homework for the remainder of the course may be uploaded to Teams in .pdf format. 
-
-
 
 
 *** HW_05 [Due: 13 Oct 2026] [Due: 14 Oct 2026]
