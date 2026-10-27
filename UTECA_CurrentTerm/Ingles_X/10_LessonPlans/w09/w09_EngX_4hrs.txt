@@ -1,31 +1,62 @@
 							LESSON PLAN  (4 hrs)
 
-Docente:		Bruce D. Marron
-Ciclo: 			26-3
-Materia: 		Inglés X
-Curso:			IT1044
-Licenciatura: 	Interpretación y Traducción
-Grupo:			10A
+Docente:        Bruce D. Marron
+Ciclo:          27-1
+Materia:        Inglés X
+Curso:          IT1044
+Licenciatura:   Interpretación y Traducción
 
 
 #####################
-HW_08 [Due: 14 July 2026]
+HW_09 [Due: 10 Nov 2026][Due: 11 Nov 2026]
 
 --- Task 1
-Read Chapters 1 through 3 of "Brave New World". We will officially launch this novel next week.
+Select one (1) of the Structure-Based Writing Exercises below. Flesh out the prompt in a couple of paragraphs in English. You will be required to read your piece for the class.
+
+Structure-Based Writing Exercises
+1. Build a scene that ends on a shocking cliffhanger, and then shift to a completely different scene within the story, leaving the audience on, well, a cliffhanger. 
+2. Create an opening to your story that misleads the viewer’s expectations. 
+3. Have an ally become an enemy — mid-conversation. 
+4. Have a well-intentioned gesture backfire badly. 
+5. Have a misunderstanding escalate quickly. 
+6. Have a confrontation flip when a secret is revealed.
+
+
+--- Task 2
+Complete the document, “A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club." This document will count 85% of your grade for the 2P exam. You will attach your review to the exam sheet. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+
+
+Study Guide Exam 2P     [DO NOT turn in as homework]
+-------------------
+1. Be able to evaluate your experience with coding
+    * How would you evaluate or characterize the Python language?
+    * Did you find using the command-line for computer-based tasks helpful or burdensome?
+    * How far did you get in the sequence of homework tasks: Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google or OpenAI? Install the Natural Language Toolkit (NLTK)? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
+    * Give two reasons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
+
+2. Be able to identify core concepts of sustainability and resilience
+    * It has been nearly 40 years since the Brundtland report was published. Have the recommendations of the report been realized? Is the world now on a path to sustainability? Is modern society resilient?
+    * Read between the lines. What is the role of religion / cosmology / world view in relation to sustainability?
+
+
+3. Be able to evaluate your experience with creative writing
+    * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
+    * Of the pieces you wrote for class which was your favorite? Explain why.
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
 
 
 
 SAVE
-After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
+--- Task 1
+Read Chapters 1 through 3 of "Brave New World". We will officially launch this novel next week.
 
+SAVE
+After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
 
 a. Select only three (3) chapters of the HW assignment's six chapters and translate the Summaries of these three selected chapters into Spanish.
 b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection of this Major Topic.
 
-
-
-NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
 
 ###############################################################
 
@@ -52,52 +83,58 @@ Patience and persistence can break through anything, no matter how great the dif
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 -------------
-** Exam 2P (Wednesday)
+** Exam 2P (next week)
 
-Study Guide Exam 2P  
+Go thru Study Guide Exam 2P  
 1. Be able to evaluate your experience with coding
     * How would you evaluate or characterize the Python language?
     * Did you find using the command-line for computer-based tasks helpful or burdensome?
-    * How far did you get in the sequence of homework tasks (Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google and OpenAI? Install the Natural Language Toolkit (NLTK)? Run a simple query using Gemini 2.5 Flash or GPT-5? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
+    * How far did you get in the sequence of homework tasks: Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google or OpenAI? Install the Natural Language Toolkit (NLTK)? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
     * Give two reasons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
 
-2. Be able to evaluate your experience with creative writing
+2. Be able to identify core concepts of sustainability and resilience
+    * It has been nearly 40 years since the Brundtland report was published. Have the recommendations of the report been realized? Is the world now on a path to sustainability? Is modern society resilient?
+    * Read between the lines. What is the role of religion / cosmology / world view in relation to sustainability?
+
+
+3. Be able to evaluate your experience with creative writing
     * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
     * Of the pieces you wrote for class which was your favorite? Explain why.
 
-3. Review of "The Joy Luck Club"
+4. Review of "The Joy Luck Club":“A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club."
 
 
 
+Creative Writing
 --------------
-** Creative Writing
---- Tips from the Masters: P.D. James:
+** Tips from the Masters: George Orwell
 https://www.writingclasses.com/toolbox/tips-masters
 
-Andrew Motion: 10 Techniques to Spark the Writing
-Annie Proulx: 5 Techniques for Good Craftsmanship
-**Billy Wilder: 10 Screenwriting Tips
-Corita Kent: Ten Rules for Students and Teachers
-**Edgar Allan Poe: 5 Essentials for the Betterment of a Story
-Elmore Leonard: 10 Rules for Good Writing
-**George Orwell: 6 Questions/6 Rules
-*Henry Miller: 10 Writing Tips
-*Jack Kerouac: 30 Cool Tips
-Joyce Carol Oates: 10 Writing Tips
-**Kurt Vonnegut: 8 Basics of Creative Writing
-Margaret Atwood: 10 Ideas for Writers
-Michael Moorcock: 10 Tips for Good Storytelling
-Neil Gaiman: 8 Good Writing Practices
-P.D. James: 5 Bits of Writing Advice
-Rejection: 3 Methods for Coping
-Ronald Knox: 10 Commandments of Detective Fiction
-*Strunk & White: 11 Composition Principles
-Tracy Kidder and Richard Todd: 10 Writing Insights
-Zadie Smith: 10 Good Writing Habits
+-- George Orwell: 6 Questions/6 Rules
+Orwell excoriated totalitarian governments in his work, but he was just as passionate about good writing. 
+
+A scrupulous writer, in every sentence that s/he writes, will ask himself at least four questions, thus:
+1.  What am I trying to say?
+2.   What words will express it?
+3.   What image or idiom will make it clearer?
+4.  Is this image fresh enough to have an effect?
+
+And s/he will probably ask himself two more:
+5.  Could I put it more shortly?
+6.  Have I said anything that is avoidably ugly?
+
+One can often be in doubt about the effect of a word or a phrase, and one needs rules that one can rely on when instinct fails. I think the following rules will cover most cases
+1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
+2. Never use a long word where a short one will do.
+3. If it is possible to cut a word out, always cut it out.
+4. Never use the passive where you can use the active.
+5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
+6. Break any of these rules sooner than say anything outright barbarous.
 
 
 
-Billy Wilder: Screenwriting Tips
+--- Billy Wilder: Screenwriting Tips
+https://www.writingclasses.com/toolbox/tips-masters
 
 Billy Wilder was one of the greatest writer/directors in film history, having co-written and directed such classics as "Sunset Boulevard", "Some Like it Hot", "The Apartment", and "Double Indemnity". What screenwriter wouldn't want a little advice from him?
 
@@ -121,19 +158,30 @@ Here are some of Wilder's screenwriting tips:
 
 
 
+Structure-Based Writing Exercises
+-----------
+https://www.finaldraft.com/blog/75-creative-writing-prompts-and-exercises-for-screenwriters
+
+Longer exercises (~2-3 paragraphs)
+1. Build a scene that ends on a shocking cliffhanger, and then shift to a completely different scene within the story, leaving the audience on, well, a cliffhanger. 
+2. Create an opening to your story that misleads the viewer’s expectations. 
+3. Have an ally become an enemy — mid-conversation. 
+4. Have a well-intentioned gesture backfire badly. 
+5. Have a misunderstanding escalate quickly. 
+6. Have a confrontation flip when a secret is revealed.
+
+
+
 ----------
 Last few Students reading their work ???
-Carlos
-Diego
-*Hugo
-*anette
-*Kim
-*Diana
 
 
 
+
+PART II
+
+Finish "The Joy Luck Club" by Amy Tan 
 -------------------
-** Finish "The Joy Luck Club" by Amy Tan 
 
 Mother				Daughter
 --------				---------
@@ -252,35 +300,8 @@ This highly emotional ending to the novel is based on a true incident from Tan's
 	Interviews
 	Job Sites
 	
-** Chinese Identity [for final] --------------------------------------------------
-	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
-	"Wu_Construction-Chinese-NonChinese-1991.pdf" [up to CONSTRUCTION OF CHINESE IDENTITY OVERSEAS]
-	* Write one (1) question based on the reading
-	* Students in two teams
-	* Each group up to the front to answer questions from the other group
 
-Notes
-	- The Chinese concept of "Chinese" is complex 
-	- The modern cultural concept of "Chinese," for example, must be understood in the context of 	
-	China's recent political history
-		1) China needed a modern identity to cope with conditions created by China's
-	confrontation with the Western world where concepts of state, citizen are foreign
-		2) the identity needs to acknowledge the traditional view of being at the center of
-	existence. Chinese have viewed themselves as being at the center, surrounded by
-	culturally inferior barbarians at the periphery.
-	- Chinese have had an anthropocentric view is based on a deep-rooted sense of belonging to
-	a unified civilization that boasts several thousands of years of uninterrupted history
-	- Two pieces to Chinese identity 
-		1) they feel a connectedness with the fate of China as a nation.
-		2) they feel a sense of fulfillment, of being the bearers of a cultural heritage handed down 
-		from their ancestors
-	- Chinese are the Han, who ultimately absorbed the "barbarians". Because the Han had absorbed people of all languages, customs, and racial and ethnic origins; the meanings of being Chinese in the sense of ethnicity, culture, citizenship, or residence were almost never addressed. Al are Han.
-	
-	- By the early twentieth century this concept of a "Chinese people" included four major non-Chinese races, descendants of what were formerly referred to as barbarians: the Man (Manchus), the
-Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
 
-	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
-Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves
 
 
 

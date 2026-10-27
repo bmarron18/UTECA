@@ -2,7 +2,7 @@ Title:					Setup instructions for using Google Gemini and OpenAI APIs
 Project:				UTECA Interpretacion y Traduccion 	
 Author:					bmarron
 Created:				May 2024
-Modified:				27 Sept 2026
+Revised:				20 Oct 2026
 
 
 
@@ -10,13 +10,14 @@ Modified:				27 Sept 2026
 PART I
 Setup Instructions for using Google Gemini AI Models
 
-	Latest Gemini AI Models 
+	Latest Gemini AI Models
+				==>  gemini-4-argon
 				==>  gemini-3.8-flash
 				==>  gemini-3.5-transcribe-live 
 				==>  gemini-3.5-transcribe
 				==>  gemini-3.5-live-translate-preview		
 
-	Latest Google Gemini SDK 		
+	Latest Gemini SDK (Python)		
 				==>  google-genai
 #################################################
 
@@ -59,9 +60,6 @@ https://ai.google.dev/gemini-api/docs/quickstart?lang=python
 	4, Acct management in Google API Studio
 https://aistudio.google.com/welcome
 
-NOTE: "vibe coding" option to build an app
-
-
 
 Guard your API Key
 --------
@@ -80,17 +78,12 @@ Setup Instructions for using OpenAI GPT AI Models
 
 	Latest OpenAI GPT Models
 					==> gpt-6-astra
-    				==> gpt-5.6-sol
-    				==> gpt-5.6-terra
+    				==> gpt-6.1-sol
+    				==> gpt-6-luna
 
-     Latest OpenAI SDK 			
+     Latest OpenAI SDK (Python)			
       				==>  openai
 ############################################
-
-Model Notes
----------------
-* gpt-6-astra available through API
-
 
 
 Review the QuickStart guide and get an OpenAI API Key
@@ -132,9 +125,26 @@ https://platform.openai.com/docs/libraries#install-an-official-sdk
 
 
 
+############################################
+PART III
+Setup Instructions for using Anthropic AI Models
+
+	Latest Anthropic Models
+					==> claude-fable-5-1
+					==> claude-opus-5.5
+    				==> claude-sonnet-5.5
+    				==> claude-haiku-5-5
+
+     Latest Anthropic SDK (Python)			
+      				==>  anthropic
+############################################
+
+
+
+
 
 ###################
-PART III
+PART IV
 Setup/Configuration of Major Components on Your Local Compu
 
 (Windows, MacOS)
@@ -289,7 +299,7 @@ Review Windows filesystem operations snippets
 
 
 ######################################################################
-PART IV
+PART V
 
 Create
 	(ai-apis)				<== a separate, virtual environment in python for handling the AI APIs
@@ -368,7 +378,7 @@ $
 
 
 ##########################################
-PART V
+PART VI
 
 Set Spyder to run in the (ai-apis) virtual environment
 ###################################################
@@ -421,7 +431,7 @@ Helpful
 
 
 ##############################
-PART VI
+PART VII
 
 Run API snippets and scripts in Spyder 6
 ############################
@@ -439,7 +449,7 @@ using Spyder 6
 
 
 #################
-PART VII
+PART VIII
 Notes on
 Prompt Engineering
 ##################
@@ -455,91 +465,3 @@ Prompt Engineering
 		contains BOTH message types instructions: a) developer messages gives the model high-level instructions on how it should behave while generating a response, including tone, goals, and examples of correct responses. Any instructions provided this way will take priority over a prompt in the input parameter; b) user messages are strings of text, images, or file inputs to the model that are used to generate a specific response.
 
 
-##################
-PART VIII
-Sample Gemini Prompts
-and System Instructions
-################
-
---- User Prompts ------------------------------
-	# User level message
-prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
-    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
-	Generate the output as MIME_Type = text/x-tex. That is. the output translation should be formated as \
-	a .tex file ready to open in LaTex."
-	
-prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
-    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
-	Generate the output as MIME type= text/plain. That is, generate the output as a plain text file (.txt)."
-
-
-prompt = "Translate the document, processedfile (a .txt file in English) to standard, natural, \
-    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs, quotation marks). \
-	Generate the output as a plain text file (.txt); that is, as MIME_type= text/plain."
-
-
-
---- System Instruction Prompts ------------------------------------------
-	# Developer level message
-config = types.GenerateContentConfig(
-               system_instruction="You are an expert liguist \
-                   specializing in translation. Maintain the original \
-                   meaning, and tone of the original. Provide ONLY the \
-                   requested translation without any additional commentary, \
-                   introductory phrases, other language translations, or \
-                   conversational remarks."),
-
-
-
-
-##################
-PART IX
-Sample OpenAI 
-User Prompts and
-System Prompts
-################
-
-    # User level message
-user_prompt = (
-    "Design a complete, self-contained home-scale ecosanitation system that "
-    "effectively and efficiently recycles human waste into garden-ready "
-    "fertilizer. The system must be designed so that 1) it can handle human "
-    "waste from three adults; 2) it uses very little electricity and virtually "
-    "no freshwater; 3) it separates urine and feces; 4) it rapidly decomposes "
-    "fecal material using inoculations of specialized bacteria and fungi; and "
-    "5) it has a minimal ecological footprint. To begin exploring design options "
-    "for such a system, review open-source journals, textbooks, and relevant "
-    "source materials for advances in ecosanitation, advances in animal manure "
-    "processing, and advances in bacterial-fungal decomposition of waste "
-    "streams. Provide 1) a high-level conceptual design in both written and "
-    "graphical form; and 2) a list of relevant citations."
-)
-
-    # Developer level message
-sys_prompt = (
-    "You are an expert in bacterial and fungal decomposition techniques and "
-    "ecological engineering designs. Use web search to find and verify sources; "
-    "cite only sources you have actually located. When a file, chart, table, or "
-    "script would be useful, create it with the code interpreter and save it as "
-    "a file so the user can download it."
-)
-
---- User Prompts ------------------------------
-	# User level messages
-	
-user_prompt= "Translate the file (a .pdf file in English) to standard, natural, \
-    and fluent Spanish. Maintain all specific formatting (line breaks, \
-    indents, spaces, paragraphs, and quotations). Generate the output as \
-    MIME type= text/plain. That is, generate the output as a plain text \
-    file (.txt)."
-
-
-
---- System Prompts ------------------------------------------
-	# Developer level messages
-	
-sys_prompt = "You are an expert liguist \
-    specializing in translation. Maintain the original \
-    meaning and tone. Provide ONLY the requested translation without \
-    any additional commentary, introductory phrases, other language \
-    translations or conversational remarks."

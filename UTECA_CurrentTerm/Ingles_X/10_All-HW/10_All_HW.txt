@@ -113,6 +113,67 @@ Read Chapters 1 through 3 of "Brave New World". We will officially launch this n
 HW 2P
 ########
 
+**HW_09 [Due: 10 Nov 2026][Due: 11 Nov 2026]
+--- Task 1
+Select one (1) of the Structure-Based Writing Exercises below. Flesh out the prompt in a couple of paragraphs in English. You will be required to read your piece for the class.
+
+Structure-Based Writing Exercises
+1. Build a scene that ends on a shocking cliffhanger, and then shift to a completely different scene within the story, leaving the audience on, well, a cliffhanger. 
+2. Create an opening to your story that misleads the viewer’s expectations. 
+3. Have an ally become an enemy — mid-conversation. 
+4. Have a well-intentioned gesture backfire badly. 
+5. Have a misunderstanding escalate quickly. 
+6. Have a confrontation flip when a secret is revealed.
+
+
+--- Task 2
+Complete the document, “A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club." This document will count 85% of your grade for the 2P exam. You will attach your review to the exam sheet. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+
+
+Study Guide Exam 2P     [DO NOT turn in as homework]
+-------------------
+1. Be able to evaluate your experience with coding
+    * How would you evaluate or characterize the Python language?
+    * Did you find using the command-line for computer-based tasks helpful or burdensome?
+    * How far did you get in the sequence of homework tasks: Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google or OpenAI? Install the Natural Language Toolkit (NLTK)? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
+    * Give two reasons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
+
+2. Be able to identify core concepts of sustainability and resilience
+    * It has been nearly 40 years since the Brundtland report was published. Have the recommendations of the report been realized? Is the world now on a path to sustainability? Is modern society resilient?
+    * Read between the lines. What is the role of religion / cosmology / world view in relation to sustainability?
+
+
+3. Be able to evaluate your experience with creative writing
+    * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
+    * Of the pieces you wrote for class which was your favorite? Explain why.
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+
+
+**HW_08 [Due: 03 Nov 2026][Due: 04 Nov 2026]
+--- Task 1
+Select one (1) of the Character Arc Prompts below. Flesh out the prompt in a paragraph or two in English. You will be required to read your piece for the class.
+
+1. A character lies — convincingly — for the first time in their life. 
+2. The protagonist meets someone from their past — but pretends not to recognize them.
+3. A minor decision reveals a major character flaw. 
+4. A character confesses to the wrong person. 
+5. Someone gets exactly what they wanted — and immediately regrets it. 
+
+--- Task 2
+Read the final two chapters (Chapter 15, and Chapter 16) of "The Joy Luck Club." No summaries required!
+	Ch. 15	o Double face: Lindo Jong
+	Ch. 16	o A Pair of Tickets: Jing-Mei Woo
+
+--- Task 3
+Begin working on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+
+
+
 **HW_07 [Due: 27 Oct 2026][Due: 28 Oct 2026]
 --- Task 1
 Take an incident from your life in high school and write a a very short fictional account. That is, use the incident as the basis for a very short vignette of creative writing. The vignette should be about a paragraph written in English.
@@ -133,6 +194,7 @@ Fourth Section Preamble: Queen Mother of the Western Skies
 	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
 
 
 ***HW_06 [Due: 20 Oct 2026][Due: 21 Oct 2026]
@@ -165,6 +227,7 @@ Third Section Preamble: American Translation
 	Ch. 12	o Best Quality: Jing-Mei Woo
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Unless noted, homework for the remainder of the course may be uploaded to Teams in .pdf format. 
+
 
 
 *** HW_05 [Due: 13 Oct 2026] [Due: 14 Oct 2026]

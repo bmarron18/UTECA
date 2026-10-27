@@ -34,20 +34,6 @@ Fourth Section Preamble: Queen Mother of the Western Skies
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
 
 
-SAVE
---- Task 1
-Select one (1) of the Character Arc Prompts below. Flesh out the prompt in a paragraph or two in English. You will be required to read your piece for the class.
-
-1. A character lies — convincingly — for the first time in their life. 
-2. The protagonist meets someone from their past — but pretends not to recognize them.
-3. A minor decision reveals a major character flaw. 
-4. A character confesses to the wrong person. 
-5. Someone gets exactly what they wanted — and immediately regrets it. 
-
-SAVE
---- Task 2
-Begin working on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
-
 ###############################################################
 
 
@@ -167,50 +153,6 @@ Read excerpt "Slaughterhouse 5"
 
 
 
-
-
-SAVE
--- Edgar Allan Poe: 5 Essentials for the Betterment of a Story
-Edgar Allan Poe* penned immortal poems, such as “The Raven" and “Annabel Lee," and unforgettable tales of psychological horror, such as “The Tell-Tale Heart," “The Masque of Red Death," The Cask of Amontillado," and “The Fall of the House of Usher." He was also a prominent literary critic and essayist, as well as the inventor of the detective story.
-
-In a recently-found treatise, he set down the following advice for bettering a story:
-    1. Employ an unreliable narrator, preferably one who doesn't know he is insane and has no recollection of such events as digging into a grave to rip out the teeth of his recently departed lover.
-
-    2. Include a beautiful woman with raven locks and porcelain skin, preferably quite young, and let her die tragically of some unknown ailment.
-
-    3. Use grandiloquent words, such as heretofore, forthwith, and nevermore. A little Latin will also enhance the text.
-
-    4. Do not shy away from such grotesqueries as inebriation, imprisonment, insanity, and men costumed as orangutans being burned to death.
-    
-    5. When in doubt, bury someone alive.
-
-*Poe didn't really compose this advice, but, as he was fond of a good hoax, we hope he would be pleased by this affectionate charade. 
-
-
-SAVE
------------
-Student volunteers for reading their work 
-(next time it's obligatory)
-
-
-SAVE
--------------
-Character Arc Prompts
-https://www.finaldraft.com/blog/75-creative-writing-prompts-and-exercises-for-screenwriters
-
-1. A character lies — convincingly — for the first time in their life. 
-2. The protagonist meets someone from their past — but pretends not to recognize them.
-3. A minor decision reveals a major character flaw. 
-4. A character confesses to the wrong person. 
-5. Someone gets exactly what they wanted — and immediately regrets it. 
-
-SAVE
----------
-"A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf"
-
-
-
-
 PART II
 "The Joy Luck Club" by Amy Tan
 --------------
@@ -272,6 +214,39 @@ Ying-ying St. Clair		—>	Lena St. Clair
 Ying-ying grew up a fearless, reckless girl amid great wealth. When her husband leaves her for an opera singer, she has an abortion and lives in poverty for ten years. Then she moves to the city and becomes a shop girl. She meets Clifford St. Clair, and they marry and move to America. He adores her, but she has lost her spirit. She must confront her past in order to regain her sense of self.
 
 Lena establishes her husband, Harold Livotny, in his own architectural firm, providing him with seed money and ideas. Eight years later, they are dividing the household expenses equally, although Harold now earns seven times more than Lena does. She is resentful and angry.
+
+
+%%%%%%%%%%%%	Preambles and Chapters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+First Section Preamble: Feathers From a Thousand LI Away
+	Ch. 1	o The Joy Luck Club: Jing-Mei Woo
+	Ch. 2	o Scar: An-Mei Hsu
+	Ch. 3	o The Red Candle: Lindo Jong
+	Ch. 4	o The Moon Lady: Ying-Ying St. Clair
+Second Section Preamble: The Twenty-Six Malignant Gates
+	Ch. 5	o Rules of the Game: Waverly Jong
+	Ch. 6	o The Voice from the Wall: Lena St. Clair
+	Ch. 7	o Half and Half: Rose Hsu Jordan
+	Ch. 8	o Two Kinds: Jing-Mei Woo
+Third Section Preamble: American Translation
+	Ch. 9	o Rice Husband: Lena St. Clair
+	Ch. 10	o Four Directions: Waverly Jong
+	Ch. 11	o Without Wood: Rose Hsu Jordan
+	Ch. 12	o Best Quality: Jing-Mei Woo
+Fourth Section Preamble: Queen Mother of the Western Skies
+	Ch. 13	o Magpies: An-Mei Hsu
+	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
+	Ch. 15	o Double face: Lindo Jong
+	Ch. 16	o A Pair of Tickets: Jing-Mei Woo
+
+
+%%%%%%%%%%	Mothers / Daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Mother					Daughter
+--------				---------
+Suyuan Woo				—> Jing-mei "June" Woo
+An-mei Hsu				—>	Rose Hsu Jordan
+Lindo Jong				—>	Waverly Jong
+Ying-ying St. Clair		—>	Lena St. Clair
 
 
 
@@ -382,7 +357,7 @@ Qs
 
 
 
---- Rice Husband: Lena St. Clair (Ch. 9)
+--- Rice Husband: Lena St. Clair (Ch. 9) 	<== 10AC start HERE
 Lena believes that her mother has an uncanny ability for predicting bad things that will befall the family. For example, she predicted the failure of a bank and her own husband's death. Lena worries what she will say about the house that Lena and her husband, Harold, have bought in Woodside. What will she predict about their future — based on their new home and the location and arrangement of the rooms in it?
 
 To compound the problem, Lena and Harold are having marital difficulties. At present, the problems are manifesting themselves in a quarrel over who should pay for the cat's flea treatment.
