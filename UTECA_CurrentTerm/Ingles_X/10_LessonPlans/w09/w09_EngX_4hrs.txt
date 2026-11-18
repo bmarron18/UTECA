@@ -11,7 +11,7 @@ Licenciatura:   Interpretación y Traducción
 HW_09 [Due: 10 Nov 2026][Due: 11 Nov 2026]
 
 --- Task 1
-Select one (1) of the Structure-Based Writing Exercises below. Flesh out the prompt in a couple of paragraphs in English. You will be required to read your piece for the class.
+Select one (1) of the Structure-Based Writing Exercises below. Flesh out the prompt in a couple of paragraphs in English. You will  havew an option to read your piece for the class.
 
 Structure-Based Writing Exercises
 1. Build a scene that ends on a shocking cliffhanger, and then shift to a completely different scene within the story, leaving the audience on, well, a cliffhanger. 
@@ -47,17 +47,6 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). Copies 
 
 
 
-SAVE
---- Task 1
-Read Chapters 1 through 3 of "Brave New World". We will officially launch this novel next week.
-
-SAVE
-After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
-
-a. Select only three (3) chapters of the HW assignment's six chapters and translate the Summaries of these three selected chapters into Spanish.
-b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection of this Major Topic.
-
-
 ###############################################################
 
 
@@ -78,6 +67,12 @@ https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
 
 
 
+
+
+
+
+
+
 Patience and persistence can break through anything, no matter how great the difficulty.
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -85,23 +80,8 @@ Patience and persistence can break through anything, no matter how great the dif
 -------------
 ** Exam 2P (next week)
 
-Go thru Study Guide Exam 2P  
-1. Be able to evaluate your experience with coding
-    * How would you evaluate or characterize the Python language?
-    * Did you find using the command-line for computer-based tasks helpful or burdensome?
-    * How far did you get in the sequence of homework tasks: Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google or OpenAI? Install the Natural Language Toolkit (NLTK)? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
-    * Give two reasons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
+Go thru Study Guide Exam 2P and HW
 
-2. Be able to identify core concepts of sustainability and resilience
-    * It has been nearly 40 years since the Brundtland report was published. Have the recommendations of the report been realized? Is the world now on a path to sustainability? Is modern society resilient?
-    * Read between the lines. What is the role of religion / cosmology / world view in relation to sustainability?
-
-
-3. Be able to evaluate your experience with creative writing
-    * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
-    * Of the pieces you wrote for class which was your favorite? Explain why.
-
-4. Review of "The Joy Luck Club":“A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club."
 
 
 
@@ -114,22 +94,22 @@ https://www.writingclasses.com/toolbox/tips-masters
 Orwell excoriated totalitarian governments in his work, but he was just as passionate about good writing. 
 
 A scrupulous writer, in every sentence that s/he writes, will ask himself at least four questions, thus:
-1.  What am I trying to say?
-2.   What words will express it?
-3.   What image or idiom will make it clearer?
-4.  Is this image fresh enough to have an effect?
+    1.  What am I trying to say?
+    2.  What words will express it?
+    3.  What image or idiom will make it clearer?
+    4.  Is this image fresh enough to have an effect?
 
 And s/he will probably ask himself two more:
-5.  Could I put it more shortly?
-6.  Have I said anything that is avoidably ugly?
+    5.  Could I put it more shortly?
+    6.  Have I said anything that is avoidably ugly?
 
 One can often be in doubt about the effect of a word or a phrase, and one needs rules that one can rely on when instinct fails. I think the following rules will cover most cases
-1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
-2. Never use a long word where a short one will do.
-3. If it is possible to cut a word out, always cut it out.
-4. Never use the passive where you can use the active.
-5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
-6. Break any of these rules sooner than say anything outright barbarous.
+    1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
+    2. Never use a long word where a short one will do.
+    3. If it is possible to cut a word out, always cut it out.
+    4. Never use the passive where you can use the active.
+    5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
+    6. Break any of these rules sooner than say anything outright barbarous.
 
 
 
@@ -158,22 +138,30 @@ Here are some of Wilder's screenwriting tips:
 
 
 
+----------
+Students read their work
+
+
+
+
+
 Structure-Based Writing Exercises
 -----------
 https://www.finaldraft.com/blog/75-creative-writing-prompts-and-exercises-for-screenwriters
 
 Longer exercises (~2-3 paragraphs)
-1. Build a scene that ends on a shocking cliffhanger, and then shift to a completely different scene within the story, leaving the audience on, well, a cliffhanger. 
-2. Create an opening to your story that misleads the viewer’s expectations. 
-3. Have an ally become an enemy — mid-conversation. 
-4. Have a well-intentioned gesture backfire badly. 
-5. Have a misunderstanding escalate quickly. 
-6. Have a confrontation flip when a secret is revealed.
+    1. Build a scene that ends on a shocking cliffhanger, and then shift to a completely different scene within the story, leaving the audience on, well, a cliffhanger. 
 
+    2. Create an opening to your story that misleads the viewer’s expectations. 
 
+    3. Have an ally become an enemy — mid-conversation. 
 
-----------
-Last few Students reading their work ???
+    4. Have a well-intentioned gesture backfire badly. 
+
+    5. Have a misunderstanding escalate quickly. 
+
+    6. Have a confrontation flip when a secret is revealed.
+
 
 
 
@@ -185,33 +173,18 @@ Finish "The Joy Luck Club" by Amy Tan
 
 Mother				Daughter
 --------				---------
-Suyuan Woo			==> Jing-mei "June" Woo
-An-mei Hsu			==>	Rose Hsu Jordan
-Lindo Jong			==>	Waverly Jong
+Suyuan Woo			   ==> Jing-mei "June" Woo
+An-mei Hsu			   ==>	Rose Hsu Jordan
+Lindo Jong			   ==>	Waverly Jong
 Ying-ying St. Clair		==>	Lena St. Clair
 
 
-DUE TOMORROW
-Complete the document, “A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club." This document will count 85% of your grade for the 2P exam. You will attach your review to the exam sheet. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+
+--- Queen Mother of the Western Skies
+Read aloud
 
 
----  Without Wood: Rose Hsu Jordan  (Ch. 11)
-As a child, Rose believed everything that her mother told her. A timid youngster, she resisted sleep, fearing nightmares. Her mother told her that Old Mr. Chou guarded the door to dreams. One night, she dreamed that she was in Old Mr. Chou's nighttime garden, where he chased her through the garden, shouting, "See what happens when you don't listen to your mother!"
-
-Thirty years later, Rose's mother is still trying to make her daughter listen. They meet at the funeral for China Mary, a mother who has helped many children in the neighborhood. Rose's mother criticizes Rose for being too thin and for confiding in her psychiatrist rather than in her own mother. Later, Rose considers what her mother said. She realizes that she has been feeling confused, caught in a dark fog of conflicting emotions.
-
-Rose has been telling her friends different versions of her break-up with Ted. For example, Rose told Waverly about the physical pain of divorcing Ted; she told Lena that she feels relieved to be free of him. She told her psychiatrist that she wants revenge — yet, despite her vivid descriptions of revenge, her psychiatrist looks bored.
-
-To settle her conflicting emotions, Rose views all the possessions that she and Ted amassed during their marriage. Soon afterward, Ted sends her a check for $10,000, along with the divorce papers. Is Ted trying to trick her into accepting this money as a full settlement? Is he saying that he still loves her? Unable to decide how to handle the check and papers, Rose stuffs them in a drawer. Her mother once explained Rose's penchant for indecision by saying that Rose was "without wood." Lacking this sturdy fiber, Rose bends in all directions — she cannot stand alone, cannot take a stand for herself.
-
-Rose walks in the garden, a once-immaculate assortment of flowers and herbs, now gone wild from neglect. She then goes to bed and stays there for three days. On the fourth day, she has a nightmare about Old Mr. Chou and awakens when her mother calls her on the telephone. Ted phones and presents his demands. Anxious to remarry, he wants the divorce papers signed immediately, and he also wants the house as part of the settlement. Rose breaks into gales of laughter when she realizes that Ted has been having an affair. She invites him to come over that night, with no idea about what she is going to say.
-
-She ends up showing him the overgrown garden. As they walk through the plants, she hands him the unsigned divorce papers and announces that she will not move out of the house. That night, she dreams of her mother and of Old Mr. Chou and his garden. In the garden, she discovers her mother tending a wild sea of weeds that, she boasts, she herself planted.
-
-Vividly, this section describes how Rose finally finds her "voice," her identity, and the ability to trust herself. From early childhood, Mrs. Hsu attempted to teach her daughter to listen to her and, thus, to learn how to listen to herself. But Rose was a timid child, unsure of where to find the truth, and she grew into a timid woman, uncertain of herself and unwilling to make decisions. Eventually, her indecision frustrated her husband, and the couple grew apart. In her mother's words, Rose was "without wood," lacking both strength and substance. She rejected her mother's wisdom and looked to Americans' opinions of her.
-
-
----  Best Quality: Jing-Mei Woo (Ch. 12)
+---  Best Quality: Jing-Mei Woo (Ch. 12) 
 After a Chinese New Year's dinner, Jing-mei's mother gave her a jade pendant which she said was her "life's importance." At first, Jing-mei did not like the pendant; it seemed too big and ornate. After her mother's death, however, the pendant will begin to assume great importance to her — even though she does not really understand the meaning that her mother assigned to it. Later, Jing-mei will notice other Chinese wearing similar pendants and will ask one of them what the pendant signifies. He won't know either.
 
 Jing-mei had helped her mother shop for the crabs that she served at the New Year's dinner. That day, her mother was annoyed about the tenants living in the second-floor apartment of a six-unit building that she owns. She was especially bothered by their cat, which Jing-mei and the tenants suspect that she poisoned. Jing-mei listened patiently to her mother as she poked the crabs to find the liveliest ones. As she was spearing the live crabs from the tank, one of them lost a limb. Mrs. Woo refused to accept it because a maimed crab is bad luck for the New Year. After a lengthy discussion, the fishmonger threw it in for free. When they return home, Jing-mei watches her mother cook, but she leaves the room when Mrs. Woo begins to boil the crabs; she cannot bear to see them die.
@@ -225,7 +198,7 @@ Later that night, after everyone has left, Jing-mei asks her mother why she did 
 Note that the last section of this chapter is set in the present. Jing-mei is cooking dinner for her father, who has not been eating well since his wife's death. She hears the tenants upstairs and now understands her mother's former complaints. The tenant's cat appears at the window, and Jing-mei realizes that her mother did not poison it, after all.
 
 
----  Magpies: An-Mei Hsu (Ch. 13)
+---  Magpies: An-Mei Hsu (Ch. 13) 
 To her mother (An-mei), Rose reveals that her marriage is falling apart. Paralyzed with grief and indecision, Rose can do nothing but weep. An-mei understands that by refusing to do something decisive about this problem, Rose is, in effect, choosing to do nothing. She knows that her daughter must make a choice: Rose must try to assert herself or she will lose her chance forever. An-mei understands this character flaw because she herself was taught to demand nothing for herself.
 
 An-mei remembers sixty years ago, when she first saw her mother. An-mei's mother had returned home when her own mother, Popo, lay dying. After Popo died, An-mei's mother prepared to leave. On the eve of her departure, she told An-mei a story from her childhood, when she was a little girl about An-mei's age. Her mother, Popo, told her that she could no longer be a child. From this experience, An-mei's mother learned that it is useless to cry, for tears only feed someone else's joy.
@@ -287,10 +260,10 @@ Jing-mei sees her sisters as she enters the terminal. At first, they look just l
 This highly emotional ending to the novel is based on a true incident from Tan's life. In 1987, Tan visited her half-sisters in China. At the time, her mother suffered from a dangerous heart condition and had recently suffered an attack of angina. Tan wanted to find out more about her heritage while her mother was still alive. The trip was a turning point in Tan's life. She explained her reaction in a July 4, 1989, interview in the New York Times. For the first time, Tan "felt a sense of completeness, like having a mother and a father," she said. "It was instant bonding," she continued. "There was something about this country that I belonged to. I found something about myself that I never knew was there." Her fictional creation, Jing-mei, shares the same reaction.
 
 
+--- Work time
 
 
-
---- Coming up / Save
+--- Coming up
 		
 ** Humor
 
@@ -300,7 +273,7 @@ This highly emotional ending to the novel is based on a true incident from Tan's
 	Interviews
 	Job Sites
 	
-
+* Brave New World
 
 
 

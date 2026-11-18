@@ -1,13 +1,11 @@
 
 ####################
 Desglose
-Marron Examanes 1P
-26-3
+Marron Examanes 2P
+27-1
 ##################
 
 Materia		Grupo		Archivo de Imprimir				Hojas/Copias
 --------	------		--------------------			-------
 
-Inglés IX	9B			1P_MarronExam_Ingles-IX.pdf			10
-
-Inglés X	10A			1P_MarronExam_Ingles-X.pdf			13
+Inglés X	10AC + 10B	2P_MarronExam_Ingles-X.pdf			24

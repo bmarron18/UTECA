@@ -1,18 +1,24 @@
 							LESSON PLAN  (4 hrs)
 
-Docente:		Bruce D. Marron
-Ciclo: 			26-3
-Materia: 		Inglés X
-Curso:			IT1044
-Licenciatura: 	Interpretación y Traducción
-Grupo:			10A
+Docente:        Bruce D. Marron
+Ciclo:          27-1
+Materia:        Inglés X
+Curso:          IT1044
+Licenciatura:   Interpretación y Traducción
+
 
 
 
 #####################
-HW_09 [Due: 21 Jul 2026]
+HW_10 [Due: 17 Nov 2026][Due: 18 Nov 2026]
 
 --- Task 1
+Read Chapters 1 through 3 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
+
+a. Translate the Summaries of these three chapters into Spanish.
+b. Select ONLY one (1) of the Major Themes from among the HW assignment's three chapters. Provide a short personal commentary and reflection of this Major Topic.
+
+--- Task 2
 Reflect on your perceptions of humor. Specifically.
 	a) Why is something funny?
 	b) Do you like a certain style of humor?
@@ -20,18 +26,8 @@ Reflect on your perceptions of humor. Specifically.
 	
 Answer the questions above in English.
 
-
---- Task 2
-Login to / create an acct in Overleaf (https://www.overleaf.com/). Use a Google account to login/create a new acct (free). Go to Templates and find the "CVs and resumes" Category. There are 36 pages of CV/resume templates! Scroll through the templates and select a CV/resume style you like. Open the template in the Latex Editor. Make as many changes as possible to reflect your own cv/resume. When done, download the .pdf of your cv/resume and submit as part of this homework assignment. You do not need to format the cv/resume differently....just submit as is and upload to Teams.
-
-
---- Task 3
-Read Chapters 4 through 8 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
-
-a. Select only one (1) chapter of the HW assignment's five chapters and translate the Summaries of the two selected chapters into Spanish.
-b. Select only one (1) of the Major Themes from among the HW assignment's five chapters. Provide a short personal commentary and reflection on this Major Topic.
-
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
 
 ###############################################################
 
@@ -42,18 +38,23 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). Copies 
 Today
 #######
 
-Go thru Exam 2P
-	JLC Review
-		Tense in writing about novel characters
+Exam 2P
+
 	
 
 
+Part II
 
----- Open
+Story Reading???
+	Nat, Domi. Dana, Are, 
+	Bren
+
 
 Stanford Encyclopedia of Philosophy
+-------------------------------------
+
 	https://plato.stanford.edu/entries/laozi/
-		Read Intro and Lao Tzu Story ( abit)
+		Read Intro and Lao Tzu Story
 		Picture of Lao Tzu
 		https://www.shutterstock.com/search/lao-tzu?dd_referrer=https%3A%2F%2Fwww.google.com%2F
 
@@ -101,63 +102,11 @@ https://taoism.net/tao-te-ching-online-translation/
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
----------------------
-Just a reminder of The Modern World
-	AI and Large Language Models
 
-1. https://www.jornada.com.mx/noticia/2026/07/05/opinion/mexico-y-la-ia
-
-2a. https://www.xataka.com/robotica-e-ia/claude-ha-desarrollado-mecanismo-para-acceso-consciente-anthropic-acaba-abrir-grieta-caja-negra-ia/amp
-
-2b. https://transformer-circuits.pub/2026/workspace/index.html#discuss-conscious
-
-
-3. https://elpais.com/tecnologia/2026-07-07/ana-garcia-robles-de-la-onu-tenemos-una-de-las-ultimas-oportunidades-para-lograr-un-acuerdo-global-sobre-ia.html
-
-
-
+Humor
 --------------------
-[straight to SNL skits]
-** Humor
-Humor can be categorized into various styles and genres, which can be broadly classified based on their content, delivery, and psychological impact. Common types include:
+Show SNL Latin-Themed Skits (bring speaker!)
 
----	I Psychological Styles of Humor	--- 
-Psychologists often categorize humor based on its use and effect on well-being. 
-    * Affiliative Humor: Used to enhance relationships and bring people together. It involves genial, inoffensive joke-telling and witty conversation, aiming to amuse others and reduce tension.
-
-	* Self-Enhancing Humor: A coping mechanism used to maintain a cheerful outlook and regulate emotions during adversity. It involves finding humor in one's situation and not being overwhelmed by stress.
- 
- 	* Aggressive Humor: Involves humor at the expense of others, using sarcasm, teasing, ridicule, or disparagement. This style is often used to manipulate or criticize others and can be detrimental to relationships.
-	
-    * Self-Defeating Humor: Involves excessive self-disparagement or "putting oneself down" to gain approval or acceptance from others. This can be associated with poor psychological well-being. 
-
-
---- II Theatrical and Performance Genres	---
-In performance and literature, humor is also categorized by form and content. 
-    ** Satire: Uses wit and irony to critique or mock societal shortcomings, institutions, or human folly. Examples include works like A Modest Proposal by Jonathan Swift.
-    
-    ** Farce: A form of low comedy that uses highly improbable situations, exaggerated characters, and chaotic plots for amusement.
-    
-    ** Slapstick: Relies on physical actions, pratfalls, and exaggerated violence for laughs (e.g., The Three Stooges).
-    
-    ** Romantic Comedy: A lighthearted plot centered on the development of a romantic relationship, typically ending with a happy conclusion.
-    
-    ** Dark Humor: Finds humor in morbid or taboo subjects such as death, crime, or other sensitive topics. The humor arises from the discomfort and absurdity of the situations.
-    
-    ** Deadpan: A form of delivery where humor is presented without emotion or a change in facial expression, forcing the audience to find the humor in the statement itself. 
-    
-    ** Comedy of Manners: A form of high comedy that uses sophisticated language, wit, and subtle characterizations to satirize the behaviors and conventions of a particular social class.
-
-
----	III Other Specific Styles	---
-    *** Observational Humor: Focuses on everyday life and social norms, pointing out the humor in common situations and shared experiences. Jerry Seinfeld's act is a classic example.
-    
-    *** Absurdist/Surreal Humor: Focuses on illogical events and bizarre situations, often defying rational explanation. Monty Python is a prime example.
-    
-    *** Anti-Humor (Anti-Joke): Intentionally unfunny or a joke with an anti-climax, where the humor comes from the expectation of a joke that never materializes.
-   
-   
-   
 #######################
 SNL Latin-Themed Skits
 ########################
@@ -194,57 +143,11 @@ https://www.youtube.com/watch?v=gYfUxRF5nfo&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nT
 
 **Modern Times
 https://www.google.com/search?q=Chrlie+Chaplin+clips+Modern+Times&sca_esv=d8140a1b87a5a1ad&sxsrf=AE3TifO2eS7znx087_cbi1qnExlHSMW4Zg%3A1763500087372&source=hp&ei=N-AcaarVFOGXkPIPtMGm4Qg&iflsig=AOw8s4IAAAAAaRzuR5MVoVa9jUxbDQlo1uhUzFiksXrW&ved=0ahUKEwjqzJHizfyQAxXhC0QIHbSgKYwQ4dUDCBg&uact=5&oq=Chrlie+Chaplin+clips+Modern+Times&gs_lp=Egdnd3Mtd2l6IiFDaHJsaWUgQ2hhcGxpbiBjbGlwcyBNb2Rlcm4gVGltZXMyBhAAGBYYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSOtoUABY4mZwAHgAkAEAmAHuAaABgB6qAQY2LjI2LjG4AQPIAQD4AQGYAiGgAs4hwgIKECMYgAQYJxiKBcICBBAjGCfCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICCxAuGIAEGJECGIoFwgINEAAYgAQYQxjJAxiKBcICCxAAGIAEGJIDGIoFwgIFEC4YgATCAgcQABiABBgKwgIJEC4YgAQYChgLwgIHEC4YgAQYCsICBxAjGLECGCfCAgsQABiABBiRAhiKBcICChAuGIAEGAoYywHCAgkQABiABBgKGAvCAgcQIxiwAhgnwgIHEAAYgAQYDcICBxAuGIAEGA2YAwCSBwYwLjMyLjGgB47GA7IHBjAuMzIuMbgHziHCBwYyLTkuMjTIB84C&sclient=gws-wiz#fpstate=ive&vld=cid:6cb3e306,vid:Da05CRAZ97c,st:0
-  
- 
-
-------------------  
-** Resumes
-	Key Info
-		Name
-		Contact 
-		Education
-		Experience
-		Awards/Certifcates/Trainings
-		Personal Tidbits / Objective
-	My resume in LaTex
-	
 
 
-	Overleaf
-		https://www.overleaf.com/latex/templates
-		https://www.overleaf.com/gallery/tagged/cv
-		Log in to Overleaf w/ Google
-	
-		*Curriculum Vitae Template 
-			A simple, easy to use template for CVs
-			
-		*brutal-resume  
-			extremely slim Latex resume template,
 
-Why Latex?
-			https://www.overleaf.com/about/why-latex
-			AI Google search ==> why use latex instead of word
-
-Why Latex?
-	LaTeX is used over Word for its superior formatting control, especially for complex scientific or academic documents with math and figures, as it handles these elements automatically and produces high-quality, professional-looking output. While Word is easier for simple documents, LaTeX allows users to focus on content rather than manual formatting, automatically tracks references, and can apply document-wide changes efficiently.
-	
-Advantages of using LaTeX over Word
-    ** Superior formatting and typesetting: LaTeX provides precise control over layout and produces high-quality typography, including kerning, ligatures, and proper justification, which is difficult to achieve in Word.
-    
-    * Automatic handling of complex elements: It automatically numbers and cross-references figures, tables, and equations, and handles the layout for mathematical equations and scripts more effectively than Word.
-    
-    * Focus on content: LaTeX allows you to concentrate on writing the content without getting bogged down in constant manual formatting adjustments.
-    
-    * Consistency and efficiency for large documents: For long documents like dissertations or theses, LaTeX provides a more stable and consistent experience by letting you define styles and make document-wide changes with a few commands.
-    
-    ** Professional output: It is the standard for many academic and scientific publications due to the professional and polished appearance it creates.
-    
-    ** Open source and free: LaTeX is open-source, and many tools and templates are readily available online. 
-
-
-PART II
+"Brave New World" by Aldous Huxley 
 -----------------
-** "Brave New World" by Aldous Huxley (photos)
 
     O wonder!
     How many goodly creatures are there here!
@@ -262,7 +165,7 @@ PART II
 
 	- Brave New World has frequently been banned and challenged since its original publication.
 
-* Aldous Huxley
+* Aldous Huxley (photos from Wikipedia)
 	- graduated from Balliol College, Oxford, with a degree in English literature
 	- acknowledged as one of the foremost intellectuals of his time
 	- nominated for the Nobel Prize in Literature nine times	
@@ -284,6 +187,7 @@ Major Topics:
 - Scientific rationalism as ideology: Laboratory discourse naturalizes hierarchy and eugenics, turning contingent political choices into “objective” necessities.
 
 - Commodity logic applied to reproduction: Bodies and futures are assembled, graded, and quality-controlled, merging consumer capitalism with reproduction.
+
 
 #########
 Chapter 2
@@ -331,6 +235,105 @@ Major Topics:
   - What types of art or ideas does Mustapha Mond say had to be sacrificed?
   - Why does Bernard seem different from other Alphas in this chapter?
   - How does the chapter show the tension between happiness and truth?
+
+
+
+
+
+  
+ 
+SAVE
+
+Humor
+----------------
+Humor can be categorized into various styles and genres, which can be broadly classified based on their content, delivery, and psychological impact. Common types include:
+
+---	I Psychological Styles of Humor	--- 
+Psychologists often categorize humor based on its use and effect on well-being. 
+    * Affiliative Humor: Used to enhance relationships and bring people together. It involves genial, inoffensive joke-telling and witty conversation, aiming to amuse others and reduce tension.
+
+	* Self-Enhancing Humor: A coping mechanism used to maintain a cheerful outlook and regulate emotions during adversity. It involves finding humor in one's situation and not being overwhelmed by stress.
+ 
+ 	* Aggressive Humor: Involves humor at the expense of others, using sarcasm, teasing, ridicule, or disparagement. This style is often used to manipulate or criticize others and can be detrimental to relationships.
+	
+    * Self-Defeating Humor: Involves excessive self-disparagement or "putting oneself down" to gain approval or acceptance from others. This can be associated with poor psychological well-being. 
+
+
+--- II Theatrical and Performance Genres	---
+In performance and literature, humor is also categorized by form and content. 
+    ** Satire: Uses wit and irony to critique or mock societal shortcomings, institutions, or human folly. Examples include works like A Modest Proposal by Jonathan Swift.
+    
+    ** Farce: A form of low comedy that uses highly improbable situations, exaggerated characters, and chaotic plots for amusement.
+    
+    ** Slapstick: Relies on physical actions, pratfalls, and exaggerated violence for laughs (e.g., The Three Stooges).
+    
+    ** Romantic Comedy: A lighthearted plot centered on the development of a romantic relationship, typically ending with a happy conclusion.
+    
+    ** Dark Humor: Finds humor in morbid or taboo subjects such as death, crime, or other sensitive topics. The humor arises from the discomfort and absurdity of the situations.
+    
+    ** Deadpan: A form of delivery where humor is presented without emotion or a change in facial expression, forcing the audience to find the humor in the statement itself. 
+    
+    ** Comedy of Manners: A form of high comedy that uses sophisticated language, wit, and subtle characterizations to satirize the behaviors and conventions of a particular social class.
+
+
+---	III Other Specific Styles	---
+    *** Observational Humor: Focuses on everyday life and social norms, pointing out the humor in common situations and shared experiences. Jerry Seinfeld's act is a classic example.
+    
+    *** Absurdist/Surreal Humor: Focuses on illogical events and bizarre situations, often defying rational explanation. Monty Python is a prime example.
+    
+    *** Anti-Humor (Anti-Joke): Intentionally unfunny or a joke with an anti-climax, where the humor comes from the expectation of a joke that never materializes.
+   
+
+
+
+
+
+
+
+------------------  
+** Resumes
+	Key Info
+		Name
+		Contact 
+		Education
+		Experience
+		Awards/Certifcates/Trainings
+		Personal Tidbits / Objective
+	My resume in LaTex
+	
+
+
+	Overleaf
+		https://www.overleaf.com/latex/templates
+		https://www.overleaf.com/gallery/tagged/cv
+		Log in to Overleaf w/ Google
+	
+		*Curriculum Vitae Template 
+			A simple, easy to use template for CVs
+			
+		*brutal-resume  
+			extremely slim Latex resume template,
+
+Why Latex?
+			https://www.overleaf.com/about/why-latex
+			AI Google search ==> why use latex instead of word
+
+Why Latex?
+	LaTeX is used over Word for its superior formatting control, especially for complex scientific or academic documents with math and figures, as it handles these elements automatically and produces high-quality, professional-looking output. While Word is easier for simple documents, LaTeX allows users to focus on content rather than manual formatting, automatically tracks references, and can apply document-wide changes efficiently.
+	
+Advantages of using LaTeX over Word
+    ** Superior formatting and typesetting: LaTeX provides precise control over layout and produces high-quality typography, including kerning, ligatures, and proper justification, which is difficult to achieve in Word.
+    
+    * Automatic handling of complex elements: It automatically numbers and cross-references figures, tables, and equations, and handles the layout for mathematical equations and scripts more effectively than Word.
+    
+    * Focus on content: LaTeX allows you to concentrate on writing the content without getting bogged down in constant manual formatting adjustments.
+    
+    * Consistency and efficiency for large documents: For long documents like dissertations or theses, LaTeX provides a more stable and consistent experience by letting you define styles and make document-wide changes with a few commands.
+    
+    ** Professional output: It is the standard for many academic and scientific publications due to the professional and polished appearance it creates.
+    
+    ** Open source and free: LaTeX is open-source, and many tools and templates are readily available online. 
+
 
 
 
